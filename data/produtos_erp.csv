@@ -1,0 +1,121 @@
+id_produto,descricao,categoria,unidade,preco_tabela
+1,Frios item 001,frios,UN,52.27
+2,Bebidas item 002,Bebidas,UN,36.98
+3,Higiene item 003,Higiene,UN,39.72
+4,Mercearia item 004,Mercearia,Unid,"R$ 12,40"
+5,Higiene item 005,Higiene,UN,"R$ 49,86"
+6,Mercearia item 006,Mercearia ,KG,-1.0
+7,Limpeza item 007,Limpeza,CX,"R$ 19,18"
+8,Limpeza item 008,Limpeza,UN,50.7
+9,Mercearia item 009,Mercearia,UN,12.09
+10,Mercearia item 010,Mercearia ,UN,79.93
+11,Bebidas item 011,Bebidas,UN,27.63
+12,Mercearia item 012,Mercearia,cx,"R$ 53,41"
+13,Frios item 013,Frio,UN,22.66
+14,Limpeza item 014,Limpez,UN,54.13
+15,Limpeza item 015,Limpez,UN,4.65
+16,Bebidas item 016,Bebidas,CX,0.0
+17,Bebidas item 017,Bebidas,KG,8.29
+18,Limpeza item 018,Limpeza,UN,"R$ 47,28"
+19,Higiene item 019,Higiene,Kg,"R$ 12,32"
+20,Bebidas item 020,Bebidas ,UN,"R$ 36,69"
+21,Higiene item 021,Higiene,CX,33.84
+22,Limpeza item 022,Limpeza,UN,5.06
+23,Bebidas item 023,BEBIDAS,KG,3.2
+24,Limpeza item 024,Limpeza,UN,5.94
+25,Bebidas item 025,BEBIDAS,UN,25.42
+26,Higiene item 026,Higiene,UN,40.67
+27,Frios item 027,Frios,UN,43.4
+28,Frios item 028,frios,UN,"R$ 128,92"
+29,Higiene item 029,Higiene,Unid,"R$ 5,69"
+30,Higiene item 030,Higiene,KG,40.65
+31,Limpeza item 031,Limpeza,CX,55.88
+32,Mercearia item 032,MERCEARIA,Kg,"R$ 62,68"
+33,Bebidas item 033,Bebidas,CX,28.83
+34,Limpeza item 034,Limpeza ,CX,50.76
+35,Mercearia item 035,MERCEARIA,UN,7.05
+36,Frios item 036,Frios,CX,"R$ 38,25"
+37,Higiene item 037,Higiene,KG,8.87
+38,Mercearia item 038,Mercearia,Unid,"R$ 42,34"
+39,Limpeza item 039,Limpeza,CX,"R$ 45,48"
+40,Higiene item 040,HIGIENE,CX,"R$ 32,61"
+41,Higiene item 041,Higiene,KG,"R$ 43,00"
+42,Higiene item 042,Higiene,UN,10.3
+43,Bebidas item 043,Bebidas,UN,"R$ 30,18"
+44,Bebidas item 044,Bebidas ,UN,10.14
+45,Limpeza item 045,Limpeza,UN,18.43
+46,Mercearia item 046,MERCEARIA,Unid,57.95
+47,Frios item 047,Frios,UN,147.23
+48,Mercearia item 048,Mercearia,CX,"R$ 50,48"
+49,Frios item 049,Frios,KG,"R$ 17,63"
+50,Limpeza item 050,Limpeza,CX,"R$ 38,13"
+51,Bebidas item 051,Bebidas,UN,"R$ 4,57"
+52,Higiene item 052,Higiene,UN,"R$ 44,55"
+53,Higiene item 053,higiene,KG,36.35
+54,Limpeza item 054,Limpeza,UN,12.87
+55,Bebidas item 055,Bebidas,UN,6.39
+56,Bebidas item 056,Bebidas,cx,9.79
+57,Higiene item 057,Higiene,Unid,49.06
+58,Higiene item 058,Higiene,UN,24.55
+59,Mercearia item 059,Mercearia,CX,63.59
+60,Mercearia item 060,Mercearia,cx,"R$ 52,37"
+61,Bebidas item 061,Bebidas,Unid,"R$ 24,18"
+62,Higiene item 062,Higiene,Kg,9.82
+63,Mercearia item 063,Mercearia ,UN,75.9
+64,Frios item 064,Frios ,UN,"R$ 52,19"
+65,Limpeza item 065,limpeza,CX,35.95
+66,Mercearia item 066,Mercearia,UN,"R$ 57,18"
+67,Mercearia item 067,Mercearia ,KG,53.34
+68,Higiene item 068,Higiene,CX,47.21
+69,Higiene item 069,Higiene,Kg,9.98
+70,Limpeza item 070,Limpez,UN,31.98
+71,Higiene item 071,Higiene,Unid,21.99
+72,Limpeza item 072,LIMPEZA,cx,"R$ 30,03"
+73,Mercearia item 073,mercearia,CX,"R$ 13,06"
+74,Limpeza item 074,Limpez,UN,10.64
+75,Mercearia item 075,Merceari,Unid,25.13
+76,Mercearia item 076,Merceari,UN,27.16
+77,Mercearia item 077,Mercearia,CX,
+78,Higiene item 078,Higiene,Unid,31.72
+79,Higiene item 079,Higiene,Unid,"R$ 32,83"
+80,Frios item 080,Frios,KG,"R$ 67,65"
+81,Higiene item 081,Higiene,CX,"R$ 22,21"
+82,Higiene item 082,Higiene,CX,"R$ 13,23"
+83,Limpeza item 083,Limpeza,CX,36.53
+84,Higiene item 084,Higiene,cx,"R$ 17,90"
+85,Bebidas item 085,BEBIDAS,UN,4.33
+86,Mercearia item 086,Mercearia,Unid,"R$ 35,80"
+87,Limpeza item 087,Limpeza,UN,30.03
+88,Mercearia item 088,Mercearia,CX,"R$ 21,15"
+89,Limpeza item 089,Limpeza,Unid,"R$ 35,63"
+90,Higiene item 090,Higiene,KG,29.59
+91,Higiene item 091,higiene,CX,35.99
+92,Bebidas item 092,Bebidas,CX,26.97
+93,Frios item 093,Frios,UN,101.34
+94,Bebidas item 094,Bebidas ,KG,14.7
+95,Bebidas item 095,Bebida,Kg,32.13
+96,Bebidas item 096,BEBIDAS,UN,23.32
+97,Frios item 097,Frios,UN,70.4
+98,Limpeza item 098,Limpeza,UN,"R$ 38,68"
+99,Bebidas item 099,Bebidas,UN,"R$ 16,34"
+100,Mercearia item 100,MERCEARIA,CX,42.97
+101,Bebidas item 101,Bebidas,UN,"R$ 30,26"
+102,Bebidas item 102,bebidas,UN,35.8
+103,Mercearia item 103,Mercearia,UN,74.0
+104,Frios item 104,Frios,UN,"R$ 80,51"
+105,Higiene item 105,Higiene,CX,27.45
+106,Limpeza item 106,Limpeza,UN,"R$ 48,59"
+107,Higiene item 107,Higiene,KG,17.78
+108,Limpeza item 108,Limpeza,CX,"R$ 50,73"
+109,Frios item 109,frios,UN,79.18
+110,Frios item 110,Frios,CX,26.22
+111,Higiene item 111,higiene,UN,0.0
+112,Limpeza item 112,Limpeza,UN,"R$ 50,99"
+113,Mercearia item 113,Mercearia,Unid,"R$ 8,22"
+114,Higiene item 114,Higiene,UN,16.19
+115,Frios item 115,Frios,CX,"R$ 56,78"
+116,Mercearia item 116,Mercearia,UN,"R$ 17,15"
+117,Bebidas item 117,Bebidas,Unid,14.61
+118,Limpeza item 118,Limpeza,UN,"R$ 45,33"
+119,Limpeza item 119,Limpeza,UN,"R$ 3,84"
+120,Mercearia item 120,Mercearia,CX,"R$ 66,87"

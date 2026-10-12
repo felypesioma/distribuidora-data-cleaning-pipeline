@@ -1,0 +1,849 @@
+id_cliente;razao_social;cnpj;cidade;data_cadastro;uf;email
+523;Restaurante Ribeiro Ribeiro LTDA;44.197.215/1673-16;Porto Alegre;20-01-20;RS;compras523@empresa523.com.br
+415;Lanchonete Costa Almeida LTDA;82.661.012/2592-40;Belo Horizonte;05/02/2019;MG;compras415@empresa415.com.br
+558;EMP�RIO SOUZA COSTA LTDA;53.863.311/4846-22;Recife;17/10/2023;PE;compras558@empresa558.com.br
+313;Restaurante Pereira Ribeiro LTDA;57.929.598/4385-00;Recife;2019-08-26;PE;
+193;Lanchonete Silva Souza LTDA;90782653333342;Recife;29/04/2022 00:00;PE;compras193@empresa193.com.br
+768;Padaria Pereira Santos LTDA;56537633769656;Campinas;2021-08-16;SP;compras768@empresa768.com.br
+644;Lanchonete Costa Santos LTDA;79.869.062/3025-79;Recife;19/08/2021;;
+237; Hotel Santos Pereira LTDA ;75.560.809/7939-30;Goi�nia;19-08-22;GO;compras237@empresa237.com.br
+69;Padaria Ribeiro Almeida LTDA;53.083.129/7378-40;Salvador;02/06/2019;BA;compras69@empresa69.com.br
+176;Hotel Pereira Santos LTDA;21692413780722;Campinas;12/07/2021;;compras176@empresa176.com.br
+252; HOTEL RIBEIRO SOUZA LTDA ;94588428766749;Salvador;14/09/2021 00:00;BA;compras252@empresa252.com.br
+520;Lanchonete Pereira Ribeiro LTDA;15.335.544/5486-20;S�o Paulo;03-04-22;SP;compras520@empresa520.com.br
+68;Lanchonete Oliveira Ribeiro LTDA;57.037.567/2724-81;Salvador;2021-01-10;BA;compras68@empresa68.com.br
+557;Restaurante Silva Costa LTDA;69824979837522;Porto Alegre;12/01/2023 00:00;RS;compras557@empresa557.com.br
+637;Mercearia Oliveira Costa LTDA;93.665.605/5876-89;Salvador;15-04-20;BA;compras637@empresa637.com.br
+503; Restaurante Souza Oliveira LTDA ;32.576.988/8163-;;09-04-24;PR;
+329; Emp�rio Costa Almeida LTDA ;97.771.830/4963-79;Belo Horizonte;10/10/2019;MG;compras329@empresa329.com.br
+289;MERCEARIA COSTA COSTA LTDA;76.436.567/0847-23;Recife;2021-12-20;PE;compras289@empresa289.com.br
+213;HOTEL PEREIRA SOUZA LTDA;49020535900624;Goi�nia;28/04/2023;GO;compras213@empresa213.com.br
+419;Mercearia Ribeiro Santos LTDA;40319033883520;Goi�nia;16-08-20;;compras419@empresa419.com.br
+667;Lanchonete Oliveira Costa LTDA;49.432.405/1678-04;;03/10/2021 00:00;SP;teste@teste.com
+545;Mercado Pereira Santos Ltda.;27.883.489/1033-19;Recife;2023-07-20;PE;
+823; MERCEARIA OLIVEIRA SANTOS ;06464133696674;Porto Alegre;04/08/2020 00:00;RS;
+366;Hotel Costa Souza LTDA;16.972.925/2430-61;Goi�nia;03/11/2021 00:00;GO;compras366@empresa366.com.br
+574;Mercearia Ribeiro Costa LTDA;76.513.992/6966-12;;2019-04-09;PE;compras574@empresa574.com.br
+442;Mercado Oliveira Silva LTDA;01.782.924/4316-55;Salvador;2020-08-24;BA;compras442@empresa442.com.br
+38;Mercado Silva Souza LTDA;09.565.886/1670-40;Recife;14/07/2023 00:00;PE;
+153;RESTAURANTE SANTOS ALMEIDA LTDA;60.603.426/2276-84;curitiba;10/01/2024;PR;compras153@empresa153.com.br
+16;Lanchonete Souza Almeida LTDA;02.281.254/3674-58;Goi�nia;2023-04-22;GO;compras16@empresa16.com.br
+227; Emp�rio Costa Oliveira LTDA ;26.230.157/4910-11;Recife;06-06-23;PE;compras227@empresa227.com.br
+439;Padaria Pereira Pereira LTDA;93.743.284/5932-03;Goi�nia;2019-06-11;GO;teste@teste.com
+183;Mercado Santos Almeida Ltda.;58.869.792/6259-31;Goi�nia;2021-09-21;GO;compras183@empresa183.com.br
+719;Emp�rio Ribeiro Pereira LTDA;13.609.323/1489-46;Recife;16-04-20;PE;compras719@empresa719.com.br
+312;EMP�RIO PEREIRA SILVA LTDA;19.078.653/7178-00;Porto Alegre;06-09-22;RS;compras312@empresa312.com.br
+493;Mercado Ribeiro Souza LTDA;97.598.147/8098-99;Campinas;15-02-23;SP;compras493@empresa493.com.br
+428;Lanchonete Costa Souza LTDA;45.984.223/6492-38;Goi�nia;28-05-23;GO;
+672;Restaurante Souza Almeida LTDA;04702326744056;Salvador;13/05/2022;BA;N/A
+336;Mercado Costa Silva LTDA;55.974.309/1370-85;Goi�nia;05-06-23;GO;compras336@empresa336.com.br
+129;Padaria Souza Almeida LTDA;77998126145642;Curitiba;23/02/2022;PR;compras129@empresa129.com.br
+102;LANCHONETE SANTOS PEREIRA LTDA;83.824.682/8343-10;S�o Paulo;04-02-20;;compras102@empresa102.com.br
+544;Emp�rio Oliveira Almeida LTDA;31.284.466/9109-20;Recife;16/12/2019 00:00;PE;compras544@empresa544.com.br
+555;Emp�rio Ribeiro Silva LTDA;07127330702188;Recife;22/05/2024;PE;compras555@empresa555.com.br
+339;Lanchonete Almeida Oliveira LTDA;39.912.393/8231-82;Porto Alegre;10/02/2020;RS;compras339@empresa339.com.br
+547;Padaria Almeida Ribeiro LTDA;96.586.823/3099-75;Porto Alegre;08/05/2021 00:00;RS;compras547@empresa547.com.br
+712;Lanchonete Silva Oliveira LTDA;26.256.721/6485-29;Salvador;2021-11-11;;compras712@empresa712.com.br
+21;Mercearia Pereira Ribeiro LTDA;32.372.585/2705-73;recife;2021-09-27;PE;compras21@empresa21.com.br
+346;Mercearia Costa Pereira LTDA;64.250.311/0895-94;Campinas;2020-05-26;SP;compras346@empresa346.com.br
+323;EMP�RIO SOUZA RIBEIRO LTDA;20008059874013;Recife;14/05/2022;PE;compras323@empresa323.com.br
+772;Mercado Silva Ribeiro LTDA;66.880.138/7371-14;Belo Horizonte;2024-05-27;MG;compras772@empresa772.com.br
+506;Lanchonete Almeida Costa LTDA;81733592295998;campinas;2021-06-26;;compras506@empresa506.com.br
+707;Lanchonete Oliveira Almeida LTDA;37296040176593;Belo Horizonte;16/01/2019 00:00;MG;compras707@empresa707.com.br
+159;Emp�rio Santos Pereira LTDA;67.414.669/3285-87;Goiania;07-10-21;GO;
+463;Mercearia Silva Ribeiro LTDA;00362962639122;Goi�nia;06-02-23;GO;compras463@empresa463.com.br
+596; Hotel Oliveira Ribeiro Ltda. ;24450584044962;Goiania;24-05-23;GO;compras596@empresa596.com.br
+144;Lanchonete Santos Costa LTDA;50822678388313;Porto Alegre;28-03-21;RS;compras144@empresa144.com.br
+798;Emp�rio Santos Ribeiro LTDA;07114426274293;Salvador;06/07/2021 00:00;BA;compras798@empresa798.com.br
+822;MERCADO COSTA OLIVEIRA;78243361420454;Recife;2019-08-19;PE;compras538@empresa538.com.br
+670;LANCHONETE RIBEIRO PEREIRA LTDA;31.747.054/6162-08;Goiania;2019-09-22;GO;teste@teste.com
+521;Padaria Santos Pereira LTDA;14869844261996;Porto Alegre;16/12/2020 00:00;RS;compras521@empresa521.com.br
+741;Hotel Ribeiro Santos Ltda.;11.026.999/4301-88;Salvador;23/06/2023;BA;compras741@empresa741.com.br
+487; MERCEARIA RIBEIRO SILVA LTDA ;51.829.362/9107-86;Salvador;30/10/2020;BA;compras487@empresa487.com.br
+100;Restaurante Souza Silva LTDA;85.170.664/3143-77;Goi�nia;07-10-19;;compras100@empresa100.com.br
+66;Mercado Santos Pereira LTDA;91465014591521;Salvador;13-10-20;BA;compras66@empresa66.com.br
+577; Mercearia Oliveira Pereira LTDA ;675098383332;Belo Horizonte;26-01-24;MG;compras577@empresa577.com.br
+454;Mercado Santos Almeida LTDA;37.005.712/5504-40;Curitiba;19-02-19;PR;compras454@empresa454.com.br
+599; Padaria Pereira Ribeiro LTDA ;50.494.631/8150-42;S�o Paulo;2022-06-09;SP;compras599@empresa599.com.br
+273;Emp�rio Santos Almeida Ltda.;91.910.176/0068-59;Goi�nia;30/10/2019;GO;compras273@empresa273.com.br
+412;Hotel Ribeiro Souza LTDA;24316743076422;Recife;2020-04-04;PE;compras412@empresa412.com.br
+228;Mercearia Santos Costa LTDA;92507756457057;Curitiba;04-03-22;PR;compras228@empresa228.com.br
+725; Lanchonete Almeida Almeida LTDA ;73546240033039;Campinas;21/04/2023;SP;compras725@empresa725.com.br
+331;Lanchonete Souza Santos LTDA;68689198307819;belo horizonte;29-12-21;MG;compras331@empresa331.com.br
+232;Padaria Almeida Ribeiro LTDA;00.624.440/2949-02;Salvador;10-09-23;BA;compras232@empresa232.com.br
+285;Lanchonete Silva Oliveira LTDA;69710608813506;Goiania;01-06-21;GO;compras285@empresa285.com.br
+762; Mercado Oliveira Almeida Ltda. ;80506952567012;;10/01/2022 00:00;GO;
+110;Restaurante Santos Costa LTDA;82.453.406/4485-10;Salvador;11/11/2022;BA;compras110@empresa110.com.br
+834;PADARIA SOUZA COSTA;60046577175218;Campinas;2023-05-05;SP;N/A
+8;Padaria Ribeiro Pereira LTDA;91300411820918;Porto Alegre;26-10-22;RS;compras8@empresa8.com.br
+170;Hotel Costa Ribeiro LTDA;29505172769536;Curitiba;15/02/2019;PR;compras170@empresa170.com.br
+251;Lanchonete Pereira Oliveira LTDA;83058716760945;Sao Paulo;25/12/2019 00:00;SP;compras251@empresa251.com.br
+673;Lanchonete Pereira Silva LTDA;02.823.060/1363-23;Campinas;26/06/2022;SP;
+579;Restaurante Pereira Pereira LTDA;79611138749288;S�o Paulo;23/11/2023 00:00;SP;compras579@empresa579.com.br
+717; Restaurante Pereira Ribeiro LTDA ;21.268.942/7888-83;belo horizonte;01/11/2021;MG;compras717@empresa717.com.br
+751;Hotel Pereira Silva LTDA;01743213263903;Recife;2024-04-06;PE;compras751@empresa751.com.br
+550;Hotel Oliveira Pereira LTDA;10.556.225/3684-58;Salvador;23-09-22;BA;compras550@empresa550.com.br
+180; Hotel Oliveira Santos Ltda. ;84155549257248;Campinas;2021-09-29;SP;compras180@empresa180.com.br
+471;Lanchonete Souza Almeida LTDA;34.940.941/0820-92;Goi�nia;16/01/2023;GO;compras471@empresa471.com.br
+274;Mercado Santos Oliveira LTDA;57.580.457/4495-02;S�o Paulo;01/04/2024;SP;
+733;Hotel Costa Santos LTDA;72.739.138/5827-96;Belo Horizonte;18-01-24;MG;
+231; Lanchonete Santos Souza LTDA ;60.454.208/1844-01;Recife;2021-07-15;PE;
+328;LANCHONETE ALMEIDA SOUZA LTDA;56693968146265;Campinas;16-03-19;SP;compras328@empresa328.com.br
+175; Restaurante Ribeiro Souza LTDA ;35.559.073/7165-83;Curitiba;2022-10-25;PR;compras175@empresa175.com.br
+387;Mercearia Ribeiro Santos LTDA;17.333.424/7688-26;goi�nia;16/05/2019;GO;compras387@empresa387.com.br
+194;Hotel Almeida Oliveira Ltda.;91.021.856/6564-71;Goi�nia;24-12-20;;compras194@empresa194.com.br
+143;Mercado Almeida Silva LTDA;42186977402087;S�o Paulo;07/07/2020 00:00;SP;compras143@empresa143.com.br
+453; Restaurante Ribeiro Pereira LTDA ;73724281783609;Curitiba;25/09/2021;;compras453@empresa453.com.br
+377; Hotel Pereira Almeida LTDA ;09625635259591;Belo Horizonte;2023-01-13;;compras377@empresa377.com.br
+756;Mercado Ribeiro Silva LTDA;79740999330570;Belo Horizonte;25/05/2021 00:00;MG;compras756@empresa756.com.br
+538;Mercado Costa Oliveira LTDA;78243361420454;Recife;19-08-19;PE;compras538@empresa538.com.br
+826;EMP�RIO SANTOS OLIVEIRA;02.353.692/9777-58;S�o Paulo;22-11-23;SP;compras48@empresa48.com.br
+452;Restaurante Almeida Souza LTDA;60.425.066/4219-49;Campinas;24-01-24;SP;compras452@empresa452.com.br
+394;Padaria Santos Souza LTDA;40100424267950;Salvador;13/04/2022;BA;compras394@empresa394.com.br
+706;Hotel Oliveira Silva LTDA;66277347453843;Curitiba;03/02/2022 00:00;PR;compras706@empresa706.com.br
+781;Restaurante Pereira Silva LTDA;85140926733845;S�o Paulo;22-10-23;SP;compras781@empresa781.com.br
+343;Mercearia Pereira Ribeiro LTDA;88.124.566/6495-69;Porto Alegre;2022-05-28;RS;
+847;PADARIA RIBEIRO SOUZA;41.449.391/4846-97;Campinas;05-05-23;SP;
+432; MERCADO SANTOS OLIVEIRA LTDA ;43.650.036/5913-91;;17-01-23;RS;compras432@empresa432.com.br
+430;Emp�rio Silva Pereira Ltda.;91456322897625;Goi�nia;01/12/2022;GO;compras430@empresa430.com.br
+674;Lanchonete Ribeiro Pereira LTDA;36.749.109/0632-85;;2019-07-10;GO;compras674@empresa674.com.br
+287; Padaria Almeida Ribeiro LTDA ;80599842514271;Recife;19/11/2019 00:00;PE;
+641;PADARIA SOUZA SILVA LTDA;00.252.238/4082-94;Salvador;2022-09-03;BA;compras641@empresa641.com.br
+214; Emp�rio Silva Costa LTDA ;13.737.350/5151-14;;17/06/2021;SP;compras214@empresa214.com.br
+198;Restaurante Costa Almeida LTDA;31242703383965;Belo Horizonte;25-08-19;MG;
+63;Lanchonete Santos Silva LTDA;98131370830195;Recife;03/01/2021;PE;compras63@empresa63.com.br
+19;MERCADO SANTOS PEREIRA LTDA;41.542.717/1710-74;campinas;07/08/2023;SP;compras19@empresa19.com.br
+456;Padaria Pereira Santos LTDA;69823614344337;Goi�nia;2022-01-15;GO;compras456@empresa456.com.br
+476;Hotel Oliveira Santos LTDA;07.412.692/3927-54;Curitiba;19/04/2023 00:00;PR;compras476@empresa476.com.br
+827;LANCHONETE OLIVEIRA COSTA;49432405167804;S�o Paulo;03/10/2021;SP;compras667@empresa667.com.br
+147;Hotel Pereira Pereira Ltda.;64438234215104;Recife;2019-03-11;PE;compras147@empresa147.com.br
+199;Restaurante Almeida Pereira LTDA;78.531.410/2595-13;Belo Horizonte;08/11/2020;MG;compras199@empresa199.com.br
+138; Padaria Pereira Silva LTDA ;37.843.553/1585-83;Salvador;2019-03-03;BA;compras138@empresa138.com.br
+23;Restaurante Costa Santos LTDA;34.586.655/9329-93;Goi�nia;2020-01-01;GO;-
+512;PADARIA OLIVEIRA OLIVEIRA LTDA;93.228.428/3641-98;Goi�nia;2023-02-01;GO;compras512@empresa512.com.br
+766;Lanchonete Almeida Santos Ltda.;87008065324881;Goi�nia;10/04/2023;GO;compras766@empresa766.com.br
+75;EMP�RIO SOUZA SANTOS LTDA;46.625.238/8686-74;Recife;2022-10-04;PE;compras75@empresa75.com.br
+642;Restaurante Almeida Almeida LTDA;98801207723760;Salvador;2024-01-07;BA;compras642@empresa642.com.br
+696;EMP�RIO COSTA OLIVEIRA LTDA;07671471254406;Recife;21/05/2020 00:00;PE;compras696@empresa696.com.br
+397; Emp�rio Oliveira Silva LTDA ;85.416.238/3311-20;Recife;31/03/2019;PE;compras397@empresa397.com.br
+373;Emp�rio Costa Souza LTDA;42.115.938/1562-07;Porto Alegre;31-03-21;RS;compras373@empresa373.com.br
+408;Hotel Pereira Ribeiro LTDA;44542822034290;Recife;15/10/2019;;compras408@empresa408.com.br
+392;Mercado Santos Silva LTDA;34.922.740/9292-66;S�o Paulo;25/12/2019;SP;compras392@empresa392.com.br
+622;Restaurante Santos Pereira LTDA;51.354.325/5382-03;Porto Alegre;13-08-21;RS;compras622@empresa622.com.br
+357;Hotel Oliveira Souza LTDA;12836177568067;Goi�nia;31/10/2019 00:00;GO;
+341;Lanchonete Almeida Santos Ltda.;18380647265686;;23-06-22;SP;compras341@empresa341.com.br
+108;Restaurante Souza Souza LTDA;52.836.434/8858-38;Curitiba;2022-08-22;PR;compras108@empresa108.com.br
+206;HOTEL SOUZA SANTOS LTDA;21214992959120;goiania;15/06/2020;GO;compras206@empresa206.com.br
+142;Lanchonete Santos Pereira Ltda.;38.836.961/2108-01;Salvador;05-03-20;BA;
+607;Mercado Santos Oliveira LTDA;05.340.750/7573-41;Belo Horizonte;08/10/2020;MG;compras607@empresa607.com.br
+687;Padaria Ribeiro Costa LTDA;57600622382824;Recife;24/03/2021 00:00;PE;compras687@empresa687.com.br
+90;Hotel Costa Silva LTDA;79754280539636;salvador;23/07/2023;BA;compras90@empresa90.com.br
+81;Hotel Silva Souza LTDA;39461839904851;Porto Alegre;24-02-24;RS;compras81@empresa81.com.br
+542;Lanchonete Silva Souza LTDA;17090275277342;;21-04-19;GO;compras542@empresa542.com.br
+511; Emp�rio Ribeiro Santos LTDA ;08.764.172/0553-23;Porto Alegre;12/06/2024 00:00;RS;compras511@empresa511.com.br
+200;Emp�rio Souza Ribeiro LTDA;96780991387860;Porto Alegre;07-04-24;RS;
+31;Padaria Costa Santos LTDA;25.900.750/0975-17;Recife;19-06-21;PE;compras31@empresa31.com.br
+11;RESTAURANTE OLIVEIRA SANTOS LTDA;65586286399628;Porto Alegre;18/11/2021;RS;
+845;RESTAURANTE COSTA SILVA;92.615.565/3530-18;Belo Horizonte;06/03/2021 00:00;MG;compras440@empresa440.com.br
+689; Lanchonete Ribeiro Santos Ltda. ;76.015.466/4190-95;S�o Paulo;09/06/2021;SP;compras689@empresa689.com.br
+820;RESTAURANTE PEREIRA ALMEIDA;51729931947371;S�o Paulo;16/08/2022;SP;
+78;RESTAURANTE RIBEIRO SANTOS LTDA;79769944638019;Belo Horizonte;29/03/2020;;
+398;Restaurante Oliveira Oliveira LTDA;26549381239352;Campinas;28-01-20;SP;compras398@empresa398.com.br
+2;Hotel Pereira Santos LTDA;99.048.836/6978-77;salvador;2023-03-28;BA;compras2@empresa2.com.br
+526;Emp�rio Santos Oliveira LTDA;63600767509960;Campinas;12-09-20;SP;
+186;RESTAURANTE ALMEIDA ALMEIDA LTDA;83573779639229;curitiba;11/06/2021;PR;compras186@empresa186.com.br
+704; Mercado Souza Almeida LTDA ;66645359444884;Salvador;09/12/2019;BA;compras704@empresa704.com.br
+647; Restaurante Ribeiro Silva LTDA ;86.045.235/3577-01;Curitiba;09/07/2021;PR;compras647@empresa647.com.br
+472;Emp�rio Pereira Costa LTDA;45027235777032;Recife;28-05-23;PE;compras472@empresa472.com.br
+682;HOTEL SANTOS ALMEIDA Ltda.;91993657304389;Salvador;02-10-19;BA;
+117;Lanchonete Silva Souza LTDA;21713782264861;Porto Alegre;2019-03-16;RS;
+527;Emp�rio Pereira Silva LTDA;65207517659428;Curitiba;21/01/2024 00:00;PR;compras527@empresa527.com.br
+420;MERCEARIA COSTA RIBEIRO LTDA;59.611.635/3680-;Salvador;09/10/2021 00:00;BA;compras420@empresa420.com.br
+165;PADARIA SILVA SOUZA LTDA;39446594791689;Salvador;15-04-21;BA;compras165@empresa165.com.br
+173;Restaurante Santos Pereira Ltda.;19587195360750;Curitiba;24-03-23;PR;compras173@empresa173.com.br
+306;Mercearia Pereira Pereira LTDA;74.910.031/3505-41;Goi�nia;08-10-19;GO;compras306@empresa306.com.br
+480;Emp�rio Ribeiro Ribeiro Ltda.;56.427.083/1074-00;Porto Alegre;07/08/2019 00:00;RS;compras480@empresa480.com.br
+316;Restaurante Almeida Ribeiro Ltda.;92.311.161/0666-68;Campinas;2022-08-11;SP;compras316@empresa316.com.br
+777;Lanchonete Pereira Santos LTDA;96.386.351/1720-84;S�o Paulo;2021-04-27;;compras777@empresa777.com.br
+120;Mercearia Oliveira Silva LTDA;12.876.769/5861-40;Curitiba;2019-08-18;;compras120@empresa120.com.br
+659;EMP�RIO SOUZA OLIVEIRA Ltda.;29.507.564/4022-80;Belo Horizonte;2019-05-25;MG;compras659@empresa659.com.br
+831; RESTAURANTE RIBEIRO SILVA ;63.992.302/8917-20;Salvador;14/01/2022 00:00;BA;compras330@empresa330.com.br
+14;Restaurante Costa Pereira Ltda.;44.037.891/8514-13;Recife;2023-03-03;PE;compras14@empresa14.com.br
+769;Hotel Souza Silva LTDA;55701597431541;Salvador;07/10/2019;;compras769@empresa769.com.br
+500; Emp�rio Costa Souza LTDA ;20040304343320;Porto Alegre;01/05/2021 00:00;RS;compras500@empresa500.com.br
+441; Padaria Oliveira Almeida Ltda. ;24720717891144;Goi�nia;30/04/2024 00:00;GO;compras441@empresa441.com.br
+403;Padaria Pereira Silva LTDA;33.926.430/9014-42;Porto Alegre;02/10/2020;RS;compras403@empresa403.com.br
+280;Lanchonete Ribeiro Ribeiro LTDA;31038702394198;Goi�nia;15/06/2019;GO;compras280@empresa280.com.br
+657;Lanchonete Pereira Souza LTDA;47.252.743/3711-40;Recife;13/03/2023 00:00;PE;compras657@empresa657.com.br
+730;Mercearia Santos Ribeiro LTDA;55560036050421;Campinas;08/08/2022;SP;compras730@empresa730.com.br
+130;Emp�rio Silva Ribeiro LTDA;84009960017714;Goi�nia;23-06-22;GO;compras130@empresa130.com.br
+210;Restaurante Almeida Almeida LTDA;49023365206785;Campinas;07/04/2023;SP;compras210@empresa210.com.br
+184;Mercearia Silva Almeida LTDA;05.173.475/5627-62;Porto Alegre;24/10/2022;RS;compras184@empresa184.com.br
+127;Hotel Costa Almeida LTDA;14535921866053;Recife;08-06-19;PE;compras127@empresa127.com.br
+205;Padaria Oliveira Ribeiro LTDA;97.171.868/0793-27;;03/07/2021;;compras205@empresa205.com.br
+164;Mercearia Almeida Santos LTDA;45.862.701/9911-18;Campinas;23/03/2021;SP;N/A
+787;Padaria Ribeiro Santos LTDA;52.625.663/8588-58;Porto Alegre;2019-03-06;RS;compras787@empresa787.com.br
+618;LANCHONETE OLIVEIRA PEREIRA LTDA;99177609299165;Goi�nia;2020-06-16;GO;compras618@empresa618.com.br
+595; PADARIA SOUZA SILVA LTDA ;54.665.473/5431-31;Porto Alegre;03/10/2020;RS;
+319;Emp�rio Almeida Silva LTDA;20582555638026;Salvador;21-02-24;BA;
+566;Emp�rio Santos Silva LTDA;91097311985738;Salvador;18-04-20;BA;compras566@empresa566.com.br
+296;Hotel Ribeiro Almeida LTDA;04.539.777/4798-25;Goi�nia;2021-11-07;GO;
+609; Restaurante Costa Ribeiro LTDA ;84676279350343;Campinas;17/04/2024 00:00;SP;compras609@empresa609.com.br
+624;Lanchonete Oliveira Oliveira LTDA;99.155.219/5556-33;S�o Paulo;2021-04-13;SP;compras624@empresa624.com.br
+509;Mercado Costa Pereira LTDA;55503089112721;S�o Paulo;2020-06-21;SP;compras509@empresa509.com.br
+601;Emp�rio Souza Ribeiro LTDA;98999117319076;Curitiba;17/05/2022;PR;compras601@empresa601.com.br
+73;Emp�rio Silva Souza LTDA;11635802491713;Goi�nia;14/07/2021;GO;compras73@empresa73.com.br
+482;Emp�rio Costa Oliveira LTDA;12.156.163/1944-57;Salvador;17-07-23;BA;compras482@empresa482.com.br
+292;Restaurante Almeida Silva LTDA;30.758.607/3760-99;S�o Paulo;17/06/2020 00:00;SP;compras292@empresa292.com.br
+703;Mercado Santos Santos LTDA;89.817.089/8126-37;Campinas;2019-12-02;SP;
+724;LANCHONETE SANTOS OLIVEIRA LTDA;54.480.976/3788-09;Curitiba;28/08/2019 00:00;PR;compras724@empresa724.com.br
+679;Lanchonete Souza Santos LTDA;47558572750179;Porto Alegre;2021-11-12;RS;compras679@empresa679.com.br
+380;Mercado Souza Santos LTDA;23096830966146;S�o Paulo;08-06-20;SP;compras380@empresa380.com.br
+752;Mercearia Pereira Silva LTDA;98.577.172/6197-68;Porto Alegre;23/10/2019 00:00;RS;
+553;Hotel Souza Costa LTDA;12.941.289/6183-38;Belo Horizonte;15/07/2023 00:00;MG;compras553@empresa553.com.br
+789; EMP�RIO OLIVEIRA RIBEIRO Ltda. ;09234862467867;S�o Paulo;25-12-21;SP;compras789@empresa789.com.br
+448;Emp�rio Silva Souza LTDA;36.488.842/8438-58;Campinas;26/03/2024;SP;compras448@empresa448.com.br
+310;Emp�rio Souza Pereira LTDA;80604893920836;Belo Horizonte;06-08-19;MG;teste@teste.com
+109;Hotel Oliveira Pereira LTDA;26.141.025/7362-60;Curitiba;01/08/2021;;compras109@empresa109.com.br
+259;Padaria Oliveira Pereira LTDA;83.938.342/1890-03;Porto Alegre;17-12-19;RS;
+258;Mercearia Souza Silva LTDA;54.672.832/6868-81;Belo Horizonte;2019-07-26;MG;compras258@empresa258.com.br
+182;Restaurante Ribeiro Almeida LTDA;75206598797752;Campinas;01/11/2019 00:00;SP;compras182@empresa182.com.br
+395;Emp�rio Santos Santos LTDA;03773946858073;;10/12/2022;MG;compras395@empresa395.com.br
+410;Mercearia Almeida Almeida Ltda.;592300401870;Curitiba;28-01-19;;compras410@empresa410.com.br
+800;MERCADO SANTOS SANTOS LTDA;28023393018856;Salvador;03/06/2021 00:00;BA;compras800@empresa800.com.br
+161;MERCADO SILVA SANTOS LTDA;56049171061979;Campinas;15/06/2024;SP;compras161@empresa161.com.br
+335;Padaria Pereira Silva LTDA;98.134.265/2549-78;Belo Horizonte;09/07/2021;MG;compras335@empresa335.com.br
+794;Emp�rio Costa Souza LTDA;24451373147523;Belo Horizonte;09/07/2023;MG;compras794@empresa794.com.br
+573; Mercearia Costa Oliveira LTDA ;35066371358735;Goi�nia;2020-07-18;GO;compras573@empresa573.com.br
+91;MERCADO RIBEIRO OLIVEIRA LTDA;95285520876657;Salvador;20/05/2021 00:00;BA;compras91@empresa91.com.br
+632;Hotel Silva Oliveira LTDA;44.653.268/2172-45;Belo Horizonte;16-10-20;MG;
+744;Mercado Souza Silva LTDA;20.811.810/4652-04;Campinas;25/06/2020 00:00;SP;compras744@empresa744.com.br
+491;Emp�rio Santos Costa LTDA;76.215.195/3852-06;Recife;10/02/2024;PE;compras491@empresa491.com.br
+661;Emp�rio Costa Costa LTDA;49.323.695/6036-28;Curitiba;20/12/2019;PR;compras661@empresa661.com.br
+676; Lanchonete Ribeiro Oliveira LTDA ;48.103.952/4034-99;Belo Horizonte;22/12/2022;MG;compras676@empresa676.com.br
+43;Hotel Pereira Costa LTDA;89.754.585/1666-28;Curitiba;02/11/2022;PR;compras43@empresa43.com.br
+440;Restaurante Costa Silva LTDA;92615565353018;Belo Horizonte;06/03/2021 00:00;;compras440@empresa440.com.br
+646;Lanchonete Ribeiro Ribeiro LTDA;44786211235030;Porto Alegre;2020-10-18;RS;compras646@empresa646.com.br
+383;Lanchonete Oliveira Almeida LTDA;86.704.273/0848-81;;10-03-24;BA;compras383@empresa383.com.br
+619;Padaria Oliveira Costa LTDA;19936882668457;Curitiba;03-05-19;PR;compras619@empresa619.com.br
+158; Lanchonete Costa Souza LTDA ;97.856.308/4367-65;Campinas;19/01/2022;SP;compras158@empresa158.com.br
+749; Mercearia Oliveira Almeida LTDA ;77.693.370/0440-52;Porto Alegre;18-09-20;RS;
+322;Mercado Oliveira Costa LTDA;55270543570231;Campinas;2019-08-04;SP;compras322@empresa322.com.br
+268;Padaria Silva Almeida Ltda.;87172593274047;Salvador;24/11/2020 00:00;BA;compras268@empresa268.com.br
+686; Lanchonete Almeida Costa LTDA ;46596535093289;Curitiba;21/05/2023;PR;compras686@empresa686.com.br
+401;Mercado Costa Santos Ltda.;33.685.233/8181-45;campinas;19-06-24;SP;compras401@empresa401.com.br
+625;Padaria Costa Silva LTDA;93.187.655/9834-01;Porto Alegre;23-04-22;RS;compras625@empresa625.com.br
+249;Restaurante Silva Oliveira LTDA;24282101676801;Curitiba;23-04-23;PR;
+112;Restaurante Silva Souza LTDA;41.569.350/4257-22;Salvador;11/04/2023;BA;compras112@empresa112.com.br
+835;EMP�RIO SANTOS OLIVEIRA;76.428.510/5791-56;campinas;24/05/2021 00:00;SP;compras82@empresa82.com.br
+598;RESTAURANTE PEREIRA RIBEIRO LTDA;44756104076254;Recife;08-04-23;PE;
+732;Restaurante Silva Pereira LTDA;80391059388613;Curitiba;2021-04-17;PR;
+446;Hotel Costa Souza LTDA;48.794.921/6559-72;Porto Alegre;18/08/2022;RS;compras446@empresa446.com.br
+633;Mercearia Almeida Ribeiro LTDA;99523730377674;Goi�nia;2021-05-17;GO;compras633@empresa633.com.br
+615; Mercearia Ribeiro Costa LTDA ;24978314049926;Goi�nia;04-10-22;GO;compras615@empresa615.com.br
+809;PADARIA ALMEIDA SILVA;02.204.668/9243-25;Porto Alegre;13/06/2022;RS;
+747; Mercado Santos Ribeiro Ltda. ;12.245.239/5750-47;Goi�nia;2021-11-30;GO;compras747@empresa747.com.br
+13;Mercado Almeida Souza LTDA;28591229341787;Campinas;11/01/2023 00:00;SP;compras13@empresa13.com.br
+375;Mercado Costa Santos LTDA;90293669322496;recife;08/11/2023 00:00;PE;compras375@empresa375.com.br
+692;Hotel Santos Ribeiro LTDA;13.495.807/5061-55;S�o Paulo;10-05-23;SP;compras692@empresa692.com.br
+85;Padaria Almeida Silva LTDA;02.204.668/9243-25;Porto Alegre;13-06-22;;compras85@empresa85.com.br
+56;Hotel Ribeiro Oliveira LTDA;33913701279061;S�o Paulo;29/03/2019;SP;compras56@empresa56.com.br
+699;Mercearia Pereira Ribeiro LTDA;87.972.363/5118-78;Recife;11/04/2019;;compras699@empresa699.com.br
+233;Lanchonete Santos Ribeiro LTDA;30.231.006/6456-83;Goi�nia;09-02-19;GO;compras233@empresa233.com.br
+665;HOTEL COSTA RIBEIRO LTDA;23.411.734/0238-71;Curitiba;09/04/2022;PR;compras665@empresa665.com.br
+71;Hotel Almeida Costa LTDA;89.610.438/6755-62;Goi�nia;11/05/2023;GO;compras71@empresa71.com.br
+688; Lanchonete Costa Pereira LTDA ;77986715630516;S�o Paulo;02/04/2022 00:00;SP;compras688@empresa688.com.br
+433;Hotel Ribeiro Santos LTDA;61571356978228;Goiania;10/07/2023;;compras433@empresa433.com.br
+334;Mercado Souza Ribeiro Ltda.;893458787159;s�o paulo;18/07/2023 00:00;SP;compras334@empresa334.com.br
+41;Mercearia Ribeiro Pereira LTDA;64.177.573/4431-69;Belo Horizonte;27/11/2019;MG;compras41@empresa41.com.br
+356;Hotel Santos Pereira LTDA;60.409.720/6583-69;Goi�nia;07-06-24;;compras356@empresa356.com.br
+572;Mercearia Almeida Ribeiro LTDA;90.444.277/9839-07;Salvador;12/04/2021 00:00;BA;compras572@empresa572.com.br
+281;Mercado Silva Almeida LTDA;04.601.164/4906-24;Campinas;05/07/2020 00:00;SP;compras281@empresa281.com.br
+603;Emp�rio Costa Costa LTDA;79890461439365;Salvador;18/01/2023 00:00;BA;compras603@empresa603.com.br
+179;Padaria Santos Almeida LTDA;63200761438465;Belo Horizonte;07/12/2023;MG;compras179@empresa179.com.br
+177;Restaurante Costa Costa Ltda.;59.552.793/4759-44;Recife;2022-12-05;PE;compras177@empresa177.com.br
+276;MERCADO OLIVEIRA PEREIRA LTDA;99.941.379/1297-32;Campinas;2021-08-22;SP;compras276@empresa276.com.br
+59;Mercearia Costa Ribeiro LTDA;49885251494891;Goi�nia;26-01-23;GO;compras59@empresa59.com.br
+705; Restaurante Ribeiro Souza LTDA ;16.255.780/2086-44;Goi�nia;16/09/2019 00:00;GO;-
+17;Mercado Pereira Costa LTDA;77868877092759;Curitiba;23/10/2021 00:00;PR;compras17@empresa17.com.br
+600;Padaria Souza Oliveira LTDA;83257571579874;Salvador;08/07/2022;BA;compras600@empresa600.com.br
+804;HOTEL PEREIRA SOUZA;63199400894282;recife;2022-09-04;PE;compras736@empresa736.com.br
+318;Lanchonete Almeida Santos LTDA;18678237583118;Salvador;2022-12-24;BA;compras318@empresa318.com.br
+582;Mercearia Silva Costa Ltda.;03668674374081;Porto Alegre;25/07/2023;RS;compras582@empresa582.com.br
+530; RESTAURANTE SOUZA OLIVEIRA Ltda. ;99.178.639/1357-16;Salvador;16/01/2024 00:00;BA;compras530@empresa530.com.br
+583;LANCHONETE ALMEIDA PEREIRA LTDA;84036699682271;Porto Alegre;2019-08-02;RS;
+378;Mercado Oliveira Silva LTDA;79274489897981;Salvador;02/02/2023;;
+345;Restaurante Oliveira Souza LTDA;22234434309682;Porto Alegre;17-12-23;RS;compras345@empresa345.com.br
+727;Mercearia Souza Oliveira LTDA;80.601.395/6319-67;S�o Paulo;13/12/2022 00:00;SP;compras727@empresa727.com.br
+753;Hotel Santos Souza LTDA;82693681363307;Curitiba;22/06/2019 00:00;PR;compras753@empresa753.com.br
+30;Mercearia Pereira Souza LTDA;76921663027114;S�o Paulo;05-06-21;SP;compras30@empresa30.com.br
+807;EMP�RIO RIBEIRO RIBEIRO;14342880261998;Recife;2022-11-19;PE;compras541@empresa541.com.br
+305;Mercearia Souza Oliveira LTDA;80230244029235;S�o Paulo;21/12/2021;SP;compras305@empresa305.com.br
+567;Restaurante Pereira Almeida LTDA;70211097854751;Belo Horizonte;01/04/2020 00:00;MG;compras567@empresa567.com.br
+311; Emp�rio Almeida Costa LTDA ;72399653895672;Salvador;24/08/2022;BA;compras311@empresa311.com.br
+594;Mercearia Costa Pereira LTDA;81021205437318;Salvador;13/05/2024 00:00;BA;
+204;Padaria Silva Oliveira LTDA;95.639.353/9646-51;Goi�nia;31-10-22;GO;
+33;Hotel Ribeiro Oliveira LTDA;10.461.881/9033-35;Porto Alegre;04/07/2019 00:00;RS;compras33@empresa33.com.br
+371;Restaurante Souza Ribeiro LTDA;14521724349142;Goi�nia;2020-11-02;GO;compras371@empresa371.com.br
+364;Lanchonete Pereira Oliveira LTDA;01.133.911/2532-83;Curitiba;22/11/2023 00:00;PR;compras364@empresa364.com.br
+157;Hotel Souza Pereira LTDA;84.895.700/8190-80;Goi�nia;10/09/2019 00:00;GO;compras157@empresa157.com.br
+522; Emp�rio Ribeiro Santos LTDA ;63269869222550;Belo Horizonte;20/10/2019 00:00;;compras522@empresa522.com.br
+745;Emp�rio Santos Oliveira Ltda.;83.746.854/8045-08;Goi�nia;2023-05-10;GO;
+640;Restaurante Ribeiro Santos LTDA;25010141521695;Salvador;12-03-24;BA;
+477;Mercado Oliveira Pereira LTDA;31.409.866/1137-84;Porto Alegre;21/08/2023;RS;compras477@empresa477.com.br
+400;Mercado Silva Oliveira LTDA;90.938.611/9016-42;Goi�nia;12-09-20;GO;compras400@empresa400.com.br
+4;Hotel Souza Almeida LTDA;33685063973441;Goi�nia;27/05/2021;GO;compras4@empresa4.com.br
+514;Lanchonete Silva Costa LTDA;41048019374730;Porto Alegre;22-06-23;RS;compras514@empresa514.com.br
+131;Padaria Santos Ribeiro LTDA;01.736.821/3718-64;Salvador;04/02/2022 00:00;BA;compras131@empresa131.com.br
+531;Restaurante Ribeiro Oliveira Ltda.;84910201542764;Porto Alegre;12-04-22;RS;compras531@empresa531.com.br
+708;Hotel Ribeiro Ribeiro LTDA;90332143599368;Porto Alegre;18/02/2022;RS;teste@teste.com
+413; Mercado Costa Oliveira LTDA ;66291801129435;belo horizonte;12/07/2020 00:00;MG;compras413@empresa413.com.br
+519;Hotel Santos Ribeiro LTDA;19.156.424/7842-62;Campinas;08/08/2021;SP;compras519@empresa519.com.br
+700;PADARIA SANTOS PEREIRA LTDA;67.601.068/1778-19;Belo Horizonte;10/07/2019;MG;compras700@empresa700.com.br
+461;Lanchonete Santos Costa LTDA;94.873.997/5359-20;S�o Paulo;17/12/2022 00:00;SP;compras461@empresa461.com.br
+114;Mercado Silva Costa LTDA;10345344026618;Recife;06-07-21;PE;compras114@empresa114.com.br
+784;Restaurante Almeida Costa Ltda.;57306992585019;Curitiba;01-09-19;PR;compras784@empresa784.com.br
+290;Hotel Souza Oliveira LTDA;76284489803575;S�o Paulo;2021-08-04;SP;compras290@empresa290.com.br
+465; Lanchonete Almeida Almeida Ltda. ;06469271088262;Goi�nia;2019-01-14;;compras465@empresa465.com.br
+207;Mercearia Pereira Costa LTDA;67.942.193/1512-22;Goiania;09/03/2023;GO;compras207@empresa207.com.br
+815;MERCADO SOUZA ALMEIDA;66645359444884;Salvador;09/12/2019 00:00;BA;compras704@empresa704.com.br
+286;Mercearia Ribeiro Pereira LTDA;71891523656421;Salvador;19/02/2024 00:00;BA;compras286@empresa286.com.br
+630;Mercearia Santos Almeida LTDA;89970080887047;Recife;02-01-21;PE;compras630@empresa630.com.br
+226;Restaurante Silva Ribeiro Ltda.;88.628.389/8184-32;Campinas;2020-09-03;SP;compras226@empresa226.com.br
+489; Mercado Souza Almeida LTDA ;21188126483077;Porto Alegre;11-03-23;RS;compras489@empresa489.com.br
+121;Restaurante Costa Silva LTDA;62.591.882/4032-56;S�o Paulo;2021-05-29;SP;compras121@empresa121.com.br
+533;Padaria Ribeiro Costa LTDA;20.874.948/9216-25;Salvador;08-11-19;BA;compras533@empresa533.com.br
+222;Mercearia Pereira Costa LTDA;77.670.937/8517-79;Goi�nia;30/06/2021;GO;compras222@empresa222.com.br
+664;MERCADO SILVA OLIVEIRA LTDA;59063241713731;Curitiba;09/02/2020 00:00;PR;compras664@empresa664.com.br
+172;Padaria Ribeiro Ribeiro LTDA;94714376061143;Recife;30-06-19;PE;compras172@empresa172.com.br
+504; Restaurante Pereira Almeida LTDA ;58134614700205;Curitiba;01/10/2023 00:00;PR;compras504@empresa504.com.br
+795; LANCHONETE SANTOS SILVA LTDA ;28251577312639;Recife;12-05-21;PE;compras795@empresa795.com.br
+581;Hotel Ribeiro Costa LTDA;38059373294745;Salvador;06-07-19;BA;compras581@empresa581.com.br
+424;Padaria Ribeiro Souza LTDA;21.490.367/2838-43;Campinas;2022-03-08;;compras424@empresa424.com.br
+580;Mercearia Almeida Oliveira LTDA;45.262.523/1278-65;S�o Paulo;23-07-19;SP;compras580@empresa580.com.br
+399;LANCHONETE PEREIRA OLIVEIRA LTDA;55.133.412/1754-42;Porto Alegre;15/07/2020 00:00;RS;compras399@empresa399.com.br
+124;Emp�rio Almeida Oliveira LTDA;60.654.332/9957-10;Campinas;2021-07-31;SP;compras124@empresa124.com.br
+738;Lanchonete Santos Santos LTDA;29824133352506;Goi�nia;29/10/2020;GO;compras738@empresa738.com.br
+181;Mercado Almeida Almeida LTDA;81941444370433;Goi�nia;20/02/2024 00:00;GO;compras181@empresa181.com.br
+162;Mercearia Souza Ribeiro LTDA;44916633657423;Belo Horizonte;21-08-22;MG;
+597;Lanchonete Almeida Souza LTDA;33291047856628;S�o Paulo;04-03-22;SP;compras597@empresa597.com.br
+379;Mercado Pereira Ribeiro LTDA;85.890.792/3841-31;goiania;29-01-21;GO;compras379@empresa379.com.br
+118;Mercado Oliveira Silva LTDA;54837024263326;;07/10/2019;BA;compras118@empresa118.com.br
+814;PADARIA ALMEIDA COSTA;50.726.375/1996-72;S�o Paulo;26/11/2019;SP;compras350@empresa350.com.br
+474;MERCADO SOUZA SANTOS LTDA;16.803.513/2608-37;Recife;2021-07-23;PE;compras474@empresa474.com.br
+570;Restaurante Silva Costa LTDA;53.903.041/1935-12;Goi�nia;16-02-22;GO;compras570@empresa570.com.br
+385;Lanchonete Almeida Pereira LTDA;30575270723848;Salvador;05/03/2019;BA;compras385@empresa385.com.br
+755; Hotel Souza Silva LTDA ;21.060.004/6688-47;Belo Horizonte;2022-01-15;MG;compras755@empresa755.com.br
+241;Hotel Ribeiro Pereira LTDA;94.391.623/0634-24;Recife;08/10/2019;PE;
+135;Emp�rio Souza Pereira LTDA;73339023130533;Goi�nia;09-05-23;GO;compras135@empresa135.com.br
+156;Lanchonete Ribeiro Oliveira LTDA;42.280.242/7119-87;Goi�nia;16/08/2022 00:00;GO;
+140;Hotel Costa Almeida LTDA;20.536.356/5933-80;Salvador;23-05-21;BA;compras140@empresa140.com.br
+559;Padaria Souza Costa LTDA;60046577175218;Campinas;2023-05-05;SP;compras559@empresa559.com.br
+61;PADARIA SANTOS SOUZA LTDA;64598052006284;Curitiba;2024-01-20;PR;
+505;Padaria Souza Pereira LTDA;64520598561365;Goi�nia;02/07/2020;GO;compras505@empresa505.com.br
+166;Emp�rio Almeida Santos LTDA;51369496503699;Curitiba;2023-06-17;PR;compras166@empresa166.com.br
+301; Mercearia Ribeiro Souza LTDA ;96987181624866;Goi�nia;2020-12-28;GO;compras301@empresa301.com.br
+437;Emp�rio Almeida Silva LTDA;86171876076893;;08/02/2022 00:00;MG;compras437@empresa437.com.br
+388;Emp�rio Costa Souza LTDA;49.475.377/6871-15;Recife;2023-07-21;PE;compras388@empresa388.com.br
+298; Lanchonete Ribeiro Ribeiro LTDA ;12.244.164/6161-91;porto alegre;27-05-21;RS;compras298@empresa298.com.br
+132;Restaurante Pereira Santos LTDA;58.236.715/0413-08;Belo Horizonte;12-01-22;MG;
+315;Lanchonete Ribeiro Costa LTDA;39032630514637;Goiania;02/05/2020 00:00;GO;compras315@empresa315.com.br
+770;EMP�RIO ALMEIDA SILVA LTDA;97.179.353/7954-93;Goi�nia;22-01-21;GO;compras770@empresa770.com.br
+702;Mercado Santos Santos LTDA;29124283768136;Curitiba;17/05/2022;PR;compras702@empresa702.com.br
+617;Mercearia Silva Souza LTDA;20787735827828;Salvador;14/05/2020 00:00;BA;compras617@empresa617.com.br
+458;Restaurante Costa Souza Ltda.;07801207329892;Salvador;21/06/2022;BA;compras458@empresa458.com.br
+39;Padaria Oliveira Almeida LTDA;21.254.535/4507-79;Goi�nia;07/07/2020;GO;compras39@empresa39.com.br
+250;Restaurante Silva Silva LTDA;94802013136511;Goi�nia;25/03/2019;;compras250@empresa250.com.br
+54;Mercado Ribeiro Souza LTDA;25.232.545/3435-52;Porto Alegre;2021-07-22;RS;compras54@empresa54.com.br
+195;Emp�rio Ribeiro Oliveira LTDA;46.668.052/4189-63;Goi�nia;03/04/2024 00:00;GO;compras195@empresa195.com.br
+137;Mercado Souza Pereira LTDA;23855883593585;Curitiba;20/04/2022 00:00;PR;compras137@empresa137.com.br
+372;RESTAURANTE PEREIRA ALMEIDA LTDA;51.729.931/9473-;Sao Paulo;16/08/2022;SP;compras372@empresa372.com.br
+569; Mercado Santos Pereira Ltda. ;12.343.997/9118-08;Porto Alegre;09-07-22;RS;
+282;Hotel Costa Pereira LTDA;31642204553931;Belo Horizonte;31/08/2021 00:00;MG;compras282@empresa282.com.br
+36;Lanchonete Almeida Costa LTDA;19.350.598/8795-98;salvador;08/05/2019 00:00;BA;compras36@empresa36.com.br
+796;Restaurante Almeida Silva LTDA;08.112.493/0423-33;Salvador;13/08/2020;BA;compras796@empresa796.com.br
+525;Lanchonete Almeida Oliveira LTDA;50425217833459;Campinas;29/09/2020;SP;compras525@empresa525.com.br
+592;Restaurante Ribeiro Souza LTDA;33.941.652/7841-94;Goi�nia;11/12/2023;GO;compras592@empresa592.com.br
+67;HOTEL RIBEIRO SANTOS LTDA;04.461.438/4496-43;Recife;17-12-23;PE;compras67@empresa67.com.br
+464;Mercado Costa Almeida LTDA;01.730.283/1026-61;Salvador;2021-04-18;BA;compras464@empresa464.com.br
+677; Lanchonete Almeida Oliveira LTDA ;22644680163857;Curitiba;07-03-22;PR;compras677@empresa677.com.br
+786;Padaria Pereira Almeida LTDA;72691288516358;Recife;22/03/2022 00:00;PE;compras786@empresa786.com.br
+53;Mercado Santos Souza LTDA;60.600.588/5287-65;Goi�nia;2020-12-28;GO;compras53@empresa53.com.br
+604;Hotel Souza Pereira LTDA;19.999.788/4016-01;Belo Horizonte;2019-09-27;MG;compras604@empresa604.com.br
+513;Mercado Pereira Souza LTDA;18399486214728;Belo Horizonte;09-08-23;MG;compras513@empresa513.com.br
+811;RESTAURANTE RIBEIRO SOUZA;52.536.826/1349-10;Campinas;17/10/2019;SP;
+240;HOTEL COSTA COSTA LTDA;16039373047366;Campinas;08/06/2022 00:00;SP;compras240@empresa240.com.br
+247;Emp�rio Santos Pereira LTDA;49535352149724;Curitiba;23-02-23;PR;compras247@empresa247.com.br
+497;Lanchonete Oliveira Costa LTDA;43279213839321;Porto Alegre;2019-08-26;RS;compras497@empresa497.com.br
+29;EMP�RIO SILVA COSTA LTDA;19697447010170;Salvador;26/12/2021;BA;compras29@empresa29.com.br
+697;RESTAURANTE SILVA PEREIRA LTDA;00538420660436;Porto Alegre;14-12-22;RS;N/A
+266; Restaurante Souza Oliveira LTDA ;40649673485849;Curitiba;2022-03-08;PR;compras266@empresa266.com.br
+245; Padaria Ribeiro Pereira LTDA ;55244494910837;Campinas;2022-06-11;SP;compras245@empresa245.com.br
+104; Padaria Costa Pereira LTDA ;89.240.957/7175-35;Goi�nia;2019-01-15;GO;compras104@empresa104.com.br
+277;Lanchonete Pereira Ribeiro LTDA;62.469.611/6608-47;Belo Horizonte;2021-07-23;MG;compras277@empresa277.com.br
+111;Padaria Pereira Ribeiro Ltda.;53.492.360/2686-20;belo horizonte;08/07/2020 00:00;MG;compras111@empresa111.com.br
+444; Mercearia Ribeiro Costa LTDA ;01.596.445/7847-28;Salvador;04/09/2021 00:00;BA;
+160;Padaria Santos Oliveira LTDA;24998059069639;;2023-04-17;PR;compras160@empresa160.com.br
+236; Restaurante Santos Almeida LTDA ;81.252.460/0149-78;Porto Alegre;09-12-22;RS;compras236@empresa236.com.br
+560; PADARIA SILVA COSTA LTDA ;49.813.772/9003-22;Recife;30/08/2023 00:00;PE;compras560@empresa560.com.br
+113;Hotel Almeida Pereira LTDA;34.685.288/5360-89;Porto Alegre;16/01/2022;RS;compras113@empresa113.com.br
+457;Emp�rio Oliveira Pereira LTDA;71.886.822/6927-22;Curitiba;24/10/2019;PR;compras457@empresa457.com.br
+799; PADARIA COSTA PEREIRA LTDA ;50.718.916/7446-04;Porto Alegre;22/09/2020;RS;compras799@empresa799.com.br
+460;Padaria Oliveira Almeida LTDA;22.137.840/6505-83;Salvador;2019-07-31;BA;compras460@empresa460.com.br
+663;LANCHONETE ALMEIDA SILVA LTDA;61673092990468;Porto Alegre;12/03/2019 00:00;RS;compras663@empresa663.com.br
+330;Restaurante Ribeiro Silva LTDA;63.992.302/8917-20;Salvador;14/01/2022;BA;compras330@empresa330.com.br
+263;Mercearia Pereira Almeida Ltda.;75.628.513/6067-31;Campinas;2020-08-22;SP;compras263@empresa263.com.br
+224;RESTAURANTE RIBEIRO SANTOS LTDA;60.007.392/6253-63;S�o Paulo;09-02-20;SP;compras224@empresa224.com.br
+839;RESTAURANTE SILVA PEREIRA;80.391.059/3886-13;Curitiba;17/04/2021;PR;compras732@empresa732.com.br
+418;Emp�rio Souza Santos LTDA;56.009.763/5145-64;Curitiba;01/09/2019;PR;compras418@empresa418.com.br
+635;LANCHONETE OLIVEIRA COSTA LTDA;86375781682344;Campinas;01-01-20;SP;compras635@empresa635.com.br
+427;Emp�rio Oliveira Silva LTDA;21869149095581;Curitiba;25/09/2023 00:00;PR;
+554;MERCADO SILVA ALMEIDA LTDA;17.241.422/7220-97;;27/09/2020;SP;compras554@empresa554.com.br
+168; Lanchonete Santos Souza LTDA ;25321175669022;Goi�nia;2019-11-30;GO;compras168@empresa168.com.br
+639;Padaria Ribeiro Souza Ltda.;41.449.391/4846-97;Campinas;05/05/2023 00:00;SP;compras639@empresa639.com.br
+242;Restaurante Pereira Santos LTDA;68.890.685/4563-02;Curitiba;14/03/2022;PR;compras242@empresa242.com.br
+758;Emp�rio Oliveira Almeida LTDA;14.104.413/3987-22;Porto Alegre;05/02/2021;RS;compras758@empresa758.com.br
+469;Mercado Almeida Souza LTDA;92284848457363;Salvador;2019-12-29;BA;compras469@empresa469.com.br
+801;EMP�RIO SILVA OLIVEIRA;43.406.482/5014-36;Campinas;07-02-20;SP;compras9@empresa9.com.br
+25;Lanchonete Oliveira Santos LTDA;47509574654868;Curitiba;2023-04-13;;compras25@empresa25.com.br
+295;Emp�rio Almeida Silva LTDA;34.839.706/7421-81;Goi�nia;26-12-21;GO;compras295@empresa295.com.br
+537; PADARIA SILVA COSTA LTDA ;24472683609008;Belo Horizonte;30/06/2021 00:00;MG;compras537@empresa537.com.br
+602; Padaria Ribeiro Souza LTDA ;49493917037561;S�o Paulo;07/04/2023;SP;compras602@empresa602.com.br
+711;Emp�rio Souza Santos LTDA;53.686.599/3948-57;Goiania;20/09/2022 00:00;;compras711@empresa711.com.br
+151;Hotel Oliveira Pereira Ltda.;53.466.416/6057-68;Curitiba;08/09/2023;PR;compras151@empresa151.com.br
+42;Lanchonete Silva Souza LTDA;08505638130877;Curitiba;25-02-23;PR;compras42@empresa42.com.br
+347;Hotel Almeida Pereira LTDA;60210966270442;Goi�nia;05-06-24;GO;compras347@empresa347.com.br
+95;Lanchonete Silva Souza Ltda.;11036881242279;Campinas;02-12-23;SP;compras95@empresa95.com.br
+445;Padaria Costa Pereira LTDA;69862641692540;Salvador;13/10/2021;BA;compras445@empresa445.com.br
+218;Mercado Almeida Costa LTDA;03.178.770/0865-02;Campinas;12/07/2019;SP;compras218@empresa218.com.br
+790;Mercado Almeida Almeida Ltda.;99.863.620/8628-14;Goi�nia;25-01-19;GO;compras790@empresa790.com.br
+382;MERCEARIA COSTA ALMEIDA LTDA;29986269515324;Recife;2024-02-17;PE;compras382@empresa382.com.br
+24;Hotel Pereira Souza LTDA;77.496.239/4052-51;Goi�nia;2024-01-28;GO;compras24@empresa24.com.br
+269;Mercearia Ribeiro Pereira LTDA;68.199.826/8537-47;Salvador;09/05/2022 00:00;BA;compras269@empresa269.com.br
+389;Hotel Costa Costa LTDA;60.434.326/9764-17;Campinas;19-11-23;;compras389@empresa389.com.br
+353;MERCADO SILVA RIBEIRO Ltda.;91.327.771/4074-50;Porto Alegre;2020-08-20;RS;compras353@empresa353.com.br
+417; Lanchonete Almeida Souza LTDA ;30.362.249/8926-23;goi�nia;22/04/2024 00:00;GO;
+293;Mercearia Souza Costa LTDA;59837440454971;Curitiba;22-03-24;PR;compras293@empresa293.com.br
+201;Mercado Silva Costa LTDA;31.106.623/7748-79;Belo Horizonte;02/01/2021;MG;compras201@empresa201.com.br
+174;Emp�rio Ribeiro Santos LTDA;42.621.680/6357-98;Recife;15/12/2022 00:00;;compras174@empresa174.com.br
+101;Mercearia Souza Souza LTDA;86396570013173;Curitiba;2023-07-24;PR;compras101@empresa101.com.br
+782;Lanchonete Oliveira Almeida LTDA;12565551977614;Porto Alegre;28/06/2022;RS;compras782@empresa782.com.br
+92; MERCADO SOUZA OLIVEIRA LTDA ;76.080.606/2629-04;Recife;29/05/2023;PE;compras92@empresa92.com.br
+638;Lanchonete Souza Costa Ltda.;53.249.757/6653-14;Campinas;2020-08-16;SP;compras638@empresa638.com.br
+791;Lanchonete Oliveira Almeida LTDA;56.773.054/3876-69;Goi�nia;11/07/2019 00:00;GO;compras791@empresa791.com.br
+485;Lanchonete Silva Costa Ltda.;41.034.979/4220-41;Goi�nia;15/07/2021;GO;compras485@empresa485.com.br
+774;Hotel Silva Almeida LTDA;52419633600745;Campinas;2022-12-06;SP;-
+516;Padaria Oliveira Oliveira LTDA;45.916.358/7107-78;Salvador;30/07/2019 00:00;BA;
+223;Emp�rio Santos Souza LTDA;46.579.608/1027-53;Curitiba;09/11/2022;;compras223@empresa223.com.br
+215;Lanchonete Almeida Costa LTDA;63.675.882/7386-55;S�o Paulo;13-01-23;SP;compras215@empresa215.com.br
+189;Mercearia Silva Almeida LTDA;93.547.212/0844-47;Recife;22-04-20;PE;compras189@empresa189.com.br
+355; LANCHONETE COSTA SANTOS LTDA ;88044236874768;Belo Horizonte;2024-04-22;MG;compras355@empresa355.com.br
+459;Mercado Ribeiro Almeida LTDA;23487315931915;Sao Paulo;09/08/2023;SP;compras459@empresa459.com.br
+543;Mercado Pereira Santos LTDA;08.675.885/2925-21;curitiba;2020-01-25;PR;compras543@empresa543.com.br
+818;EMP�RIO SANTOS SILVA;91.097.311/9857-38;Salvador;18/04/2020 00:00;BA;compras566@empresa566.com.br
+354;Emp�rio Pereira Santos Ltda.;07.284.975/4588-40;Porto Alegre;20-05-21;RS;compras354@empresa354.com.br
+77;Padaria Almeida Oliveira LTDA;97.430.766/6761-07;Belo Horizonte;22-10-20;MG;compras77@empresa77.com.br
+243;Mercado Santos Costa LTDA;44107764113094;Belo Horizonte;09/07/2019;MG;compras243@empresa243.com.br
+848;HOTEL ALMEIDA OLIVEIRA;73.105.609/8275-69;Salvador;17/11/2023 00:00;BA;
+74;Mercado Almeida Costa LTDA;90763112526838;Goi�nia;17/09/2019;GO;compras74@empresa74.com.br
+833;MERCADO SANTOS SOUZA;27.608.704/3807-09;Porto Alegre;19/06/2021;RS;
+552;Padaria Almeida Oliveira LTDA;90915448945574;Salvador;26/02/2021 00:00;BA;compras552@empresa552.com.br
+816; EMP�RIO RIBEIRO SANTOS ;63269869222550;Belo Horizonte;20/10/2019;MG;compras522@empresa522.com.br
+426;Mercearia Souza Costa LTDA;11121001369301;Curitiba;04/02/2020 00:00;PR;compras426@empresa426.com.br
+348;Mercearia Pereira Santos LTDA;42.484.313/2414-49;Recife;2024-02-16;PE;compras348@empresa348.com.br
+119;Emp�rio Costa Oliveira LTDA;50763578594077;Belo Horizonte;05-05-20;MG;compras119@empresa119.com.br
+631;Restaurante Ribeiro Souza LTDA;68568983925634;Curitiba;13/01/2023 00:00;PR;compras631@empresa631.com.br
+115;Emp�rio Oliveira Pereira LTDA;37710165209456;S�o Paulo;2021-10-08;;compras115@empresa115.com.br
+576;Hotel Almeida Souza LTDA;53.833.074/5769-28;Campinas;17/01/2021;;compras576@empresa576.com.br
+578;RESTAURANTE SOUZA SOUZA LTDA;48419248010362;Curitiba;13/11/2021 00:00;PR;compras578@empresa578.com.br
+6;Padaria Santos Silva LTDA;39.839.152/4771-82;S�o Paulo;14-09-23;SP;compras6@empresa6.com.br
+481;Emp�rio Ribeiro Costa LTDA;43726395661395;Salvador;29-07-20;;compras481@empresa481.com.br
+490;Mercearia Silva Ribeiro LTDA;03364720484451;Salvador;27/04/2022;BA;teste@teste.com
+466;Restaurante Souza Almeida LTDA;51223806185587;Porto Alegre;16-04-24;;compras466@empresa466.com.br
+70;Padaria Souza Souza LTDA;66990978750322;Porto Alegre;28/07/2021 00:00;;compras70@empresa70.com.br
+15;EMP�RIO SILVA RIBEIRO LTDA;06435638825969;Goi�nia;05/12/2022;GO;compras15@empresa15.com.br
+840;RESTAURANTE ALMEIDA OLIVEIRA;82006335740415;Porto Alegre;2023-01-14;;compras757@empresa757.com.br
+634;Mercearia Santos Costa LTDA;79091688507604;Porto Alegre;28/01/2021 00:00;RS;compras634@empresa634.com.br
+370;Emp�rio Almeida Silva LTDA;12.573.014/5482-14;Goiania;25-03-23;GO;compras370@empresa370.com.br
+79;Emp�rio Souza Ribeiro LTDA;38.154.236/7485-54;S�o Paulo;02/02/2022 00:00;SP;compras79@empresa79.com.br
+203;EMP�RIO SILVA SANTOS LTDA;65.169.218/6906-62;Goi�nia;17/09/2021;GO;compras203@empresa203.com.br
+155;MERCEARIA RIBEIRO SANTOS LTDA;83657262290335;Campinas;18/05/2021 00:00;SP;compras155@empresa155.com.br
+628;Emp�rio Almeida Silva LTDA;45.403.395/3574-80;Curitiba;05/01/2021 00:00;PR;compras628@empresa628.com.br
+819;EMP�RIO RIBEIRO ALMEIDA;65.029.921/4270-53;Belo Horizonte;14/12/2022 00:00;MG;
+5; Mercado Silva Souza LTDA ;45.262.736/5277-74;S�o Paulo;2021-05-16;SP;compras5@empresa5.com.br
+568;Emp�rio Ribeiro Pereira LTDA;67.416.171/8678-17;S�o Paulo;13/05/2020 00:00;SP;
+645;Emp�rio Oliveira Ribeiro LTDA;25.623.913/9707-63;Belo Horizonte;2023-03-21;MG;compras645@empresa645.com.br
+611;MERCADO PEREIRA ALMEIDA LTDA;67.270.038/8691-16;Salvador;26-07-23;BA;compras611@empresa611.com.br
+468;Emp�rio Ribeiro Costa LTDA;04.977.254/9996-48;Salvador;2022-04-07;BA;compras468@empresa468.com.br
+267;PADARIA OLIVEIRA SOUZA LTDA;26328752093526;Belo Horizonte;13/06/2021;;compras267@empresa267.com.br
+666;Lanchonete Ribeiro Oliveira LTDA;58269325459449;Belo Horizonte;21/10/2022 00:00;MG;compras666@empresa666.com.br
+294;Restaurante Costa Souza LTDA;91.997.469/6396-01;Curitiba;25/10/2020;PR;compras294@empresa294.com.br
+72;Mercearia Almeida Ribeiro LTDA;98913137415043;Goiania;14/01/2020 00:00;GO;compras72@empresa72.com.br
+775;MERCEARIA SANTOS SANTOS LTDA;47549669833626;Salvador;20-08-23;BA;compras775@empresa775.com.br
+3;Padaria Oliveira Souza LTDA;55818273356084;Porto Alegre;02/08/2022;RS;compras3@empresa3.com.br
+26;Padaria Ribeiro Almeida LTDA;68770250086758;Belo Horizonte;11/07/2022;MG;compras26@empresa26.com.br
+309;Mercearia Santos Oliveira LTDA;41187465289226;Goi�nia;23-09-20;GO;compras309@empresa309.com.br
+217;Emp�rio Almeida Ribeiro LTDA;06.289.121/7457-71;Campinas;08-06-19;SP;
+344; Restaurante Silva Ribeiro LTDA ;02.291.191/4574-14;Curitiba;27/10/2021 00:00;PR;compras344@empresa344.com.br
+736;Hotel Pereira Souza LTDA;63199400894282;Recife;04/09/2022;PE;compras736@empresa736.com.br
+515;Emp�rio Oliveira Almeida LTDA;55305438385371;Curitiba;02-04-24;PR;compras515@empresa515.com.br
+167;Padaria Ribeiro Silva Ltda.;28121572606431;Curitiba;04-10-20;PR;compras167@empresa167.com.br
+783; Lanchonete Ribeiro Silva LTDA ;62.166.163/8199-55;S�o Paulo;03-09-19;SP;
+627;Mercado Pereira Santos LTDA;47.365.333/2701-56;Recife;07/11/2020 00:00;PE;compras627@empresa627.com.br
+332;HOTEL PEREIRA SANTOS LTDA;81902137064167;Salvador;11/01/2021;BA;
+178;LANCHONETE SOUZA OLIVEIRA LTDA;53.059.120/0663-92;;19/11/2019 00:00;PE;compras178@empresa178.com.br
+376;Hotel Souza Ribeiro LTDA;95.300.999/0091-46;Belo Horizonte;08/07/2019;MG;compras376@empresa376.com.br
+438;LANCHONETE PEREIRA SILVA LTDA;07.746.440/9499-69;Porto Alegre;30/01/2024 00:00;RS;
+248;PADARIA COSTA OLIVEIRA LTDA;64.441.025/8132-09;Salvador;2021-04-11;BA;compras248@empresa248.com.br
+374;HOTEL SANTOS RIBEIRO LTDA;53863773824967;Campinas;17-01-21;SP;compras374@empresa374.com.br
+536;MERCEARIA SOUZA COSTA LTDA;42059228242888;Goi�nia;2019-11-04;GO;compras536@empresa536.com.br
+473;PADARIA COSTA OLIVEIRA LTDA;80.436.482/0418-90;Belo Horizonte;2021-05-14;MG;compras473@empresa473.com.br
+541;Emp�rio Ribeiro Ribeiro Ltda.;14342880261998;Recife;19-11-22;PE;compras541@empresa541.com.br
+612;Hotel Ribeiro Almeida LTDA;46686297443109;Porto Alegre;2021-07-14;RS;compras612@empresa612.com.br
+828;PADARIA SANTOS SOUZA;64598052006284;Curitiba;20/01/2024;PR;compras61@empresa61.com.br
+613;Emp�rio Almeida Souza LTDA;86431569231504;Recife;18/04/2023;PE;compras613@empresa613.com.br
+654;Hotel Costa Almeida LTDA;44.968.231/9103-05;Goiania;28/05/2023;GO;compras654@empresa654.com.br
+684; Hotel Oliveira Santos LTDA ;61.108.321/1814-03;Campinas;01/04/2024 00:00;SP;compras684@empresa684.com.br
+308;Padaria Ribeiro Oliveira LTDA;23.697.648/5653-29;Curitiba;13/01/2022;PR;compras308@empresa308.com.br
+49;Restaurante Oliveira Silva Ltda.;75.399.330/8837-67;Porto Alegre;17/09/2022;RS;compras49@empresa49.com.br
+695; Mercado Almeida Almeida LTDA ;69096746038369;Porto Alegre;2019-06-30;RS;compras695@empresa695.com.br
+621; Lanchonete Pereira Souza LTDA ;74070346627254;Porto Alegre;17-05-21;RS;compras621@empresa621.com.br
+55;Emp�rio Oliveira Oliveira LTDA;73.800.836/7121-75;Curitiba;22/09/2021 00:00;PR;compras55@empresa55.com.br
+502; Restaurante Pereira Oliveira LTDA ;06.176.562/5180-32;Porto Alegre;27-07-22;RS;
+653;Mercearia Oliveira Pereira LTDA;48809030536479;Campinas;09/02/2020 00:00;SP;compras653@empresa653.com.br
+235;Emp�rio Silva Souza LTDA;99045177059152;S�o Paulo;12/09/2021;SP;
+701;LANCHONETE PEREIRA OLIVEIRA Ltda.;13650263663452;Salvador;07/11/2021;BA;compras701@empresa701.com.br
+431; Lanchonete Pereira Costa LTDA ;90515065907794;Recife;2019-06-18;PE;compras431@empresa431.com.br
+534; Mercado Almeida Silva LTDA ;55.767.383/2747-83;Recife;23/07/2020;PE;
+192;Lanchonete Silva Almeida LTDA;79.263.811/7005-12;S�o Paulo;14/06/2022;SP;compras192@empresa192.com.br
+152;Mercearia Silva Pereira LTDA;61956318615693;S�o Paulo;2020-07-16;;compras152@empresa152.com.br
+436;Emp�rio Pereira Santos LTDA;16.322.741/8176-21;Curitiba;05-09-19;PR;compras436@empresa436.com.br
+257;Emp�rio Souza Almeida LTDA;19.897.266/8023-60;Curitiba;2022-09-17;PR;compras257@empresa257.com.br
+771;Padaria Santos Souza LTDA;06937392578367;Belo Horizonte;2022-07-27;MG;compras771@empresa771.com.br
+803;HOTEL PEREIRA SANTOS;21692413780722;Campinas;12-07-21;SP;compras176@empresa176.com.br
+678;Emp�rio Santos Silva LTDA;10.555.878/4982-93;Curitiba;18/06/2019 00:00;PR;compras678@empresa678.com.br
+384;Hotel Souza Ribeiro LTDA;62.262.794/7020-76;Porto Alegre;2020-04-26;RS;compras384@empresa384.com.br
+146;Lanchonete Costa Souza LTDA;86.790.954/5293-26;Belo Horizonte;03/09/2023;MG;compras146@empresa146.com.br
+683;Lanchonete Ribeiro Silva LTDA;85470557847949;Salvador;03/04/2024;BA;compras683@empresa683.com.br
+748;Mercado Ribeiro Silva LTDA;78.298.920/6792-61;Salvador;20/09/2020 00:00;;compras748@empresa748.com.br
+216;Mercado Costa Silva LTDA;09454592724266;S�o Paulo;28-06-20;SP;compras216@empresa216.com.br
+643;Padaria Oliveira Costa LTDA;80620610773493;Recife;2023-09-05;PE;compras643@empresa643.com.br
+785;Hotel Almeida Almeida LTDA;68.181.493/1903-99;Campinas;14/08/2021;SP;compras785@empresa785.com.br
+564;Mercado Ribeiro Silva LTDA;86.427.775/7156-17;Goi�nia;29/12/2019 00:00;GO;compras564@empresa564.com.br
+197;Restaurante Santos Ribeiro Ltda.;13877084635732;Goi�nia;2020-11-16;GO;compras197@empresa197.com.br
+714;EMP�RIO ALMEIDA RIBEIRO LTDA;61.887.314/6156-40;Porto Alegre;2023-03-08;RS;compras714@empresa714.com.br
+496;Padaria Ribeiro Ribeiro LTDA;529554748909;Campinas;2021-04-05;SP;
+18;Lanchonete Santos Souza LTDA;82.196.803/8996-73;Belo Horizonte;2019-09-14;MG;compras18@empresa18.com.br
+735;RESTAURANTE OLIVEIRA ALMEIDA LTDA;20751651059739;S�o Paulo;2020-02-21;SP;compras735@empresa735.com.br
+28;Emp�rio Silva Santos LTDA;49567336989682;salvador;04-07-23;BA;compras28@empresa28.com.br
+278;Mercado Ribeiro Pereira LTDA;23.538.519/7305-;Porto Alegre;2023-04-15;RS;
+396;Emp�rio Santos Costa LTDA;28915015410709;Porto Alegre;2023-10-16;RS;compras396@empresa396.com.br
+229;Emp�rio Pereira Costa LTDA;55.673.222/0940-99;S�o Paulo;2021-12-29;;
+321;Mercearia Oliveira Ribeiro LTDA;34840038040112;Belo Horizonte;03/10/2020 00:00;MG;
+148;Hotel Almeida Costa LTDA;19.065.819/2697-89;Belo Horizonte;12-04-20;MG;compras148@empresa148.com.br
+802;EMP�RIO RIBEIRO SANTOS;08.764.172/0553-23;Porto Alegre;12-06-24;RS;compras511@empresa511.com.br
+495;Lanchonete Oliveira Silva LTDA;471499404802;Campinas;02/08/2020 00:00;SP;compras495@empresa495.com.br
+450; Mercearia Ribeiro Almeida LTDA ;16.616.740/6233-48;Campinas;26-07-20;;N/A
+740;Mercearia Costa Almeida LTDA;06.004.906/2445-70;Salvador;2023-12-02;BA;compras740@empresa740.com.br
+107;Hotel Souza Oliveira LTDA;77.830.630/5682-80;Curitiba;2023-04-10;PR;compras107@empresa107.com.br
+351;Lanchonete Pereira Pereira LTDA;11597487112963;Campinas;02/12/2021 00:00;SP;compras351@empresa351.com.br
+524; EMP�RIO PEREIRA ALMEIDA Ltda. ;16.992.636/5810-90;S�o Paulo;08/07/2023;SP;compras524@empresa524.com.br
+390;MERCADO ALMEIDA PEREIRA LTDA;34871440042307;Belo Horizonte;03/11/2019;MG;compras390@empresa390.com.br
+449;Restaurante Ribeiro Almeida LTDA;52.334.893/6021-81;Goi�nia;08/11/2021;GO;compras449@empresa449.com.br
+94; Mercearia Souza Santos LTDA ;97014671795251;Sao Paulo;13/02/2021;SP;compras94@empresa94.com.br
+260;Mercado Santos Souza LTDA;80.896.301/1556-82;Recife;21/03/2022;;compras260@empresa260.com.br
+750;MERCEARIA SILVA RIBEIRO LTDA;73.140.184/3570-86;Belo Horizonte;12-11-19;MG;compras750@empresa750.com.br
+171; Lanchonete Almeida Ribeiro LTDA ;09735371597613;Recife;2019-08-01;PE;compras171@empresa171.com.br
+255;Restaurante Oliveira Silva LTDA;16.459.626/2754-13;Goi�nia;14/08/2022;GO;compras255@empresa255.com.br
+253;Emp�rio Silva Pereira LTDA;44075529692838;S�o Paulo;12/01/2020;SP;compras253@empresa253.com.br
+307;Mercearia Ribeiro Ribeiro LTDA;83997882658841;Campinas;2020-08-27;SP;compras307@empresa307.com.br
+548;Mercado Souza Ribeiro LTDA;11826813866972;Curitiba;28/03/2022 00:00;PR;N/A
+838;LANCHONETE ALMEIDA OLIVEIRA;22644680163857;Curitiba;07-03-22;PR;compras677@empresa677.com.br
+805;MERCADO SANTOS COSTA;44107764113094;Belo Horizonte;09/07/2019 00:00;MG;
+429;Mercearia Costa Almeida LTDA;82533769738958;Recife;20/02/2019;PE;compras429@empresa429.com.br
+187; Lanchonete Santos Ribeiro LTDA ;15.389.232/8162-07;goi�nia;29-11-19;GO;compras187@empresa187.com.br
+270;Mercado Santos Pereira LTDA;27.458.312/3354-64;Goi�nia;27-03-22;GO;compras270@empresa270.com.br
+163;MERCEARIA SANTOS ALMEIDA LTDA;89072016605341;Porto Alegre;29/03/2021 00:00;RS;-
+414;MERCADO OLIVEIRA PEREIRA LTDA;10.272.575/5060-30;Campinas;21/09/2019 00:00;SP;compras414@empresa414.com.br
+655;Restaurante Silva Almeida LTDA;89533609323387;S�o Paulo;11/01/2022 00:00;SP;compras655@empresa655.com.br
+668;Lanchonete Costa Oliveira LTDA;52.826.147/9285-78;;2023-09-18;SP;compras668@empresa668.com.br
+99;Hotel Pereira Ribeiro Ltda.;10.698.070/6472-68;Campinas;27/06/2022 00:00;;compras99@empresa99.com.br
+7;Lanchonete Santos Almeida LTDA;65.620.145/2780-24;Curitiba;21/06/2019 00:00;PR;compras7@empresa7.com.br
+825;HOTEL SANTOS PEREIRA;54539831728103;Belo Horizonte;09-08-21;MG;compras709@empresa709.com.br
+722;Hotel Oliveira Silva LTDA;32.021.514/0474-79;Goi�nia;06/02/2024 00:00;GO;compras722@empresa722.com.br
+230;Restaurante Pereira Silva LTDA;63.270.010/7393-64;Goi�nia;20/12/2019 00:00;GO;
+265;Emp�rio Santos Santos LTDA;23482969538611;Recife;02/06/2024;PE;compras265@empresa265.com.br
+369; EMP�RIO COSTA SOUZA LTDA ;32221148859871;Campinas;2019-02-14;SP;compras369@empresa369.com.br
+590;Mercearia Silva Oliveira LTDA;22.466.862/1697-49;Goi�nia;15/08/2023;GO;
+729;Padaria Silva Pereira LTDA;42058365293372;S�o Paulo;2021-09-03;SP;compras729@empresa729.com.br
+716;Mercado Pereira Souza LTDA;79.410.803/8007-30;Porto Alegre;18-05-23;RS;compras716@empresa716.com.br
+757;Restaurante Almeida Oliveira LTDA;82.006.335/7404-15;Porto Alegre;14/01/2023;;compras757@empresa757.com.br
+404;Padaria Almeida Souza LTDA;89801321915438;Recife;27-04-24;;compras404@empresa404.com.br
+616;Padaria Oliveira Oliveira LTDA;08.380.870/9978-;Recife;03/07/2022 00:00;PE;compras616@empresa616.com.br
+190;Restaurante Almeida Oliveira LTDA;23409096514477;Curitiba;26-08-20;PR;compras190@empresa190.com.br
+333;Hotel Souza Almeida LTDA;13.111.387/2131-20;Belo Horizonte;11-09-20;MG;compras333@empresa333.com.br
+304; Mercado Santos Souza LTDA ;86.716.102/5918-68;Goi�nia;28-11-23;GO;
+261;Lanchonete Almeida Santos LTDA;59538484678908;S�o Paulo;06/05/2023 00:00;SP;compras261@empresa261.com.br
+145;Mercearia Souza Costa LTDA;69778723190058;Goi�nia;08/06/2024;GO;compras145@empresa145.com.br
+284;Hotel Silva Pereira LTDA;79609183011769;S�o Paulo;08-09-21;SP;compras284@empresa284.com.br
+723; HOTEL COSTA PEREIRA LTDA ;08583722359519;Belo Horizonte;2023-08-18;MG;compras723@empresa723.com.br
+12;Emp�rio Costa Souza LTDA;45070698454906;Curitiba;05/05/2024 00:00;PR;compras12@empresa12.com.br
+691;PADARIA PEREIRA PEREIRA LTDA;41855665431906;Porto Alegre;16-06-24;RS;compras691@empresa691.com.br
+532;Emp�rio Almeida Souza LTDA;30.258.217/8155-45;Recife;28-11-19;PE;compras532@empresa532.com.br
+470;Padaria Almeida Almeida LTDA;31.595.580/6068-37;Curitiba;2024-02-10;PR;compras470@empresa470.com.br
+128; Emp�rio Santos Pereira Ltda. ;12610136775082;Belo Horizonte;10/03/2023 00:00;MG;compras128@empresa128.com.br
+728;Padaria Ribeiro Costa LTDA;33165229166961;Curitiba;25-06-19;PR;compras728@empresa728.com.br
+58;Lanchonete Santos Pereira LTDA;35.525.935/6164-70;Recife;05/11/2019 00:00;PE;compras58@empresa58.com.br
+34;Restaurante Oliveira Santos Ltda.;06827572997275;S�o Paulo;14/01/2022 00:00;SP;compras34@empresa34.com.br
+238;Hotel Costa Ribeiro LTDA;51480280996242;S�o Paulo;14/05/2021;SP;compras238@empresa238.com.br
+778;Emp�rio Costa Costa LTDA;32082842631026;Porto Alegre;2019-08-25;;compras778@empresa778.com.br
+283;Mercado Souza Santos LTDA;40628404664299;Curitiba;04/09/2022 00:00;PR;
+587;Padaria Ribeiro Silva LTDA;50.304.930/8651-33;Goi�nia;10-10-22;GO;compras587@empresa587.com.br
+363;Padaria Oliveira Costa LTDA;62636428581150;recife;22/03/2020;PE;compras363@empresa363.com.br
+244;Mercado Oliveira Santos Ltda.;54694677517451;S�o Paulo;2022-07-23;SP;compras244@empresa244.com.br
+93;Mercado Souza Santos LTDA;54.019.228/4506-11;Campinas;11/08/2023;SP;
+211;Hotel Santos Souza LTDA;48.281.066/9331-79;Salvador;06/06/2020 00:00;BA;compras211@empresa211.com.br
+338;Mercearia Oliveira Santos Ltda.;45.437.612/3813-18;Belo Horizonte;26-09-20;MG;compras338@empresa338.com.br
+302;Mercado Santos Oliveira Ltda.;85.889.513/6831-14;Curitiba;11/07/2023;PR;compras302@empresa302.com.br
+86;Mercearia Pereira Ribeiro LTDA;29.158.367/4839-70;Salvador;2022-11-01;BA;compras86@empresa86.com.br
+191;Emp�rio Ribeiro Oliveira LTDA;86228542277669;;2022-09-29;;compras191@empresa191.com.br
+40;Lanchonete Souza Almeida LTDA;30.782.069/8727-21;Belo Horizonte;2022-06-17;MG;compras40@empresa40.com.br
+501;Restaurante Souza Almeida LTDA;39383611661129;Campinas;16/08/2019;SP;
+508;Hotel Almeida Costa LTDA;89.679.490/5780-84;Curitiba;10-05-20;PR;compras508@empresa508.com.br
+517; Emp�rio Oliveira Ribeiro LTDA ;63717205883658;Curitiba;2023-10-30;PR;compras517@empresa517.com.br
+105;Padaria Ribeiro Pereira LTDA;63410865314729;Curitiba;13-05-23;PR;compras105@empresa105.com.br
+685; Lanchonete Costa Ribeiro LTDA ;07.534.047/3927-92;Porto Alegre;05-12-19;RS;compras685@empresa685.com.br
+234; Hotel Ribeiro Ribeiro LTDA ;39.170.985/5771-49;Campinas;26/02/2023 00:00;SP;compras234@empresa234.com.br
+106;Lanchonete Silva Pereira LTDA;32.106.987/6634-07;Salvador;23/04/2023 00:00;BA;compras106@empresa106.com.br
+342; MERCEARIA OLIVEIRA SANTOS LTDA ;06.464.133/6966-74;Porto Alegre;04-08-20;RS;
+254;MERCEARIA RIBEIRO RIBEIRO LTDA;33574265564797;Salvador;21/10/2020;BA;compras254@empresa254.com.br
+409;HOTEL SILVA SILVA LTDA;54439277338973;Salvador;12-02-24;BA;compras409@empresa409.com.br
+423;Hotel Pereira Costa LTDA;75.666.743/3819-82;Goi�nia;13/03/2023 00:00;GO;compras423@empresa423.com.br
+209; Restaurante Souza Silva LTDA ;12085873593389;;11/06/2020 00:00;RS;compras209@empresa209.com.br
+829;EMP�RIO SANTOS SOUZA;96.142.792/5836-51;Curitiba;06-03-23;PR;compras742@empresa742.com.br
+651;MERCEARIA RIBEIRO PEREIRA LTDA;46605294187562;Belo Horizonte;05/09/2021 00:00;MG;compras651@empresa651.com.br
+83;Mercearia Ribeiro Ribeiro LTDA;92.619.095/0273-83;Goi�nia;18/11/2019;GO;
+498;Restaurante Pereira Almeida LTDA;28.875.511/5886-50;Belo Horizonte;18/01/2021;MG;compras498@empresa498.com.br
+776;Emp�rio Silva Oliveira LTDA;43762723390067;s�o paulo;2024-03-17;SP;compras776@empresa776.com.br
+584;Hotel Silva Souza LTDA;04.124.109/2887-29;Campinas;14-04-19;SP;compras584@empresa584.com.br
+660;Mercado Almeida Costa LTDA;97.552.663/9638-91;Porto Alegre;30/07/2020;RS;compras660@empresa660.com.br
+88;Padaria Santos Pereira Ltda.;42.116.779/7485-88;Goi�nia;16/09/2020;GO;compras88@empresa88.com.br
+65; Mercado Silva Costa LTDA ;11346650190235;Campinas;01-04-21;SP;compras65@empresa65.com.br
+271;Hotel Pereira Ribeiro LTDA;54038484876768;Salvador;12/08/2020;BA;-
+606;Emp�rio Costa Santos LTDA;24705979259447;goi�nia;08-12-21;GO;compras606@empresa606.com.br
+275;Restaurante Oliveira Souza LTDA;69203453822960;Recife;16/04/2021;PE;compras275@empresa275.com.br
+734;Mercado Souza Ribeiro LTDA;80430995492913;Belo Horizonte;2023-03-29;MG;compras734@empresa734.com.br
+754;Mercado Almeida Costa Ltda.;15837346562145;Salvador;16-02-24;BA;compras754@empresa754.com.br
+154;Emp�rio Costa Ribeiro LTDA;91.628.228/8863-13;salvador;10/08/2020 00:00;BA;compras154@empresa154.com.br
+614;Padaria Costa Souza LTDA;47.953.870/3081-90;Campinas;2021-02-09;SP;compras614@empresa614.com.br
+743;Lanchonete Ribeiro Costa LTDA;28417373630090;Porto Alegre;22/06/2022 00:00;RS;compras743@empresa743.com.br
+411;HOTEL SOUZA RIBEIRO LTDA;76.894.368/9348-71;Recife;2019-12-15;PE;compras411@empresa411.com.br
+518;Mercado Almeida Costa LTDA;32874847725172;Campinas;14/05/2019 00:00;SP;compras518@empresa518.com.br
+45;Padaria Ribeiro Silva LTDA;02.214.003/4760-;Goi�nia;16-05-19;GO;
+626;Emp�rio Silva Souza LTDA;82.473.661/0877-92;Porto Alegre;10/04/2020;RS;
+391;PADARIA SOUZA RIBEIRO LTDA;90719488793132;Porto Alegre;2023-02-02;RS;compras391@empresa391.com.br
+221;LANCHONETE RIBEIRO RIBEIRO LTDA;72.620.354/6388-99;Campinas;13-09-19;;compras221@empresa221.com.br
+141;Lanchonete Souza Almeida LTDA;23532397545139;Belo Horizonte;19/05/2024;MG;compras141@empresa141.com.br
+350;Padaria Almeida Costa LTDA;50.726.375/1996-72;S�o Paulo;26/11/2019;SP;compras350@empresa350.com.br
+358;HOTEL SILVA PEREIRA LTDA;13394730389017;S�o Paulo;2023-11-19;SP;compras358@empresa358.com.br
+134; Mercearia Costa Pereira LTDA ;34166371093714;Campinas;23-01-22;SP;compras134@empresa134.com.br
+262;Emp�rio Almeida Ribeiro LTDA;68.492.641/2753-73;Salvador;08-12-19;BA;compras262@empresa262.com.br
+279;Hotel Almeida Pereira Ltda.;79.568.919/1933-33;salvador;10/05/2019;BA;compras279@empresa279.com.br
+80;Emp�rio Souza Silva LTDA;963235508698;Goi�nia;01/09/2022 00:00;GO;compras80@empresa80.com.br
+824;RESTAURANTE ALMEIDA COSTA;96.448.513/9520-94;S�o Paulo;30-08-20;SP;compras136@empresa136.com.br
+116; Padaria Ribeiro Almeida LTDA ;53.477.300/1764-87;Recife;11-02-22;PE;compras116@empresa116.com.br
+693;Restaurante Ribeiro Costa LTDA;55293622151313;Porto Alegre;06-02-24;RS;compras693@empresa693.com.br
+812;RESTAURANTE SILVA SOUZA;41569350425722;Salvador;11-04-23;BA;compras112@empresa112.com.br
+381;Lanchonete Oliveira Almeida LTDA;49.424.078/8876-93;Belo Horizonte;11/01/2019 00:00;MG;compras381@empresa381.com.br
+788;Emp�rio Santos Pereira LTDA;07.910.561/0347-90;Porto Alegre;2022-10-04;RS;compras788@empresa788.com.br
+185;Mercearia Silva Costa LTDA;98747137269739;Campinas;2021-09-18;SP;compras185@empresa185.com.br
+669;Mercearia Pereira Costa LTDA;81.354.686/6231-32;Campinas;12/01/2024 00:00;SP;compras669@empresa669.com.br
+359; Emp�rio Ribeiro Silva LTDA ;30034710966585;Salvador;01/07/2019;BA;compras359@empresa359.com.br
+37;Padaria Oliveira Ribeiro LTDA;88.763.412/8411-;Curitiba;13/09/2023;PR;-
+340; Padaria Oliveira Souza LTDA ;77027394133814;Sao Paulo;20-03-24;SP;compras340@empresa340.com.br
+710;Restaurante Pereira Silva LTDA;52214711476275;Porto Alegre;20/07/2021;RS;compras710@empresa710.com.br
+421;Mercearia Almeida Souza LTDA;56.614.978/1823-14;Goi�nia;30/01/2024 00:00;GO;compras421@empresa421.com.br
+150; Padaria Almeida Almeida LTDA ;55.692.621/1256-72;Campinas;27/04/2019;SP;compras150@empresa150.com.br
+10;Hotel Almeida Costa LTDA;50613018014709;Salvador;08-07-19;;
+46;Hotel Pereira Oliveira LTDA;74.899.963/0747-93;Salvador;25-04-24;;compras46@empresa46.com.br
+96;Mercearia Costa Pereira LTDA;48.679.049/0524-08;Curitiba;2020-07-30;PR;compras96@empresa96.com.br
+763;Lanchonete Oliveira Santos LTDA;66574608560543;Campinas;2024-03-13;SP;compras763@empresa763.com.br
+844;MERCADO SANTOS PEREIRA;91.465.014/5915-21;Salvador;2020-10-13;BA;compras66@empresa66.com.br
+549;Lanchonete Silva Santos Ltda.;82487347981346;Recife;28/10/2021;PE;N/A
+561;Lanchonete Costa Oliveira Ltda.;38.698.459/1448-74;Porto Alegre;09/12/2021 00:00;RS;compras561@empresa561.com.br
+299; Emp�rio Silva Santos LTDA ;16.522.713/2361-73;porto alegre;23/07/2020 00:00;RS;compras299@empresa299.com.br
+291; Restaurante Almeida Ribeiro LTDA ;62116905031365;Belo Horizonte;2023-06-04;MG;compras291@empresa291.com.br
+416;Lanchonete Pereira Ribeiro LTDA;01.937.320/3006-94;Goi�nia;2022-09-17;GO;compras416@empresa416.com.br
+314;EMP�RIO OLIVEIRA RIBEIRO LTDA;08.344.772/5704-26;;16/07/2020;SP;compras314@empresa314.com.br
+422;Restaurante Almeida Costa LTDA;90147422600504;Recife;20/10/2022 00:00;PE;compras422@empresa422.com.br
+658; Mercearia Ribeiro Pereira LTDA ;01603941062371;Curitiba;19-06-22;PR;compras658@empresa658.com.br
+123;Hotel Souza Costa LTDA;12.284.175/5798-17;Campinas;01/08/2022 00:00;;compras123@empresa123.com.br
+713;MERCEARIA OLIVEIRA SILVA LTDA;06281156776985;salvador;2022-12-26;BA;compras713@empresa713.com.br
+694;Lanchonete Pereira Pereira LTDA;77359111700889;Belo Horizonte;2024-03-07;;compras694@empresa694.com.br
+362;Hotel Almeida Oliveira LTDA;73105609827569;Salvador;2023-11-17;BA;
+337;Restaurante Costa Costa LTDA;69622329763275;;10-04-24;SP;compras337@empresa337.com.br
+136;Restaurante Almeida Costa LTDA;96448513952094;S�o Paulo;30/08/2020;SP;compras136@empresa136.com.br
+720;Padaria Souza Costa LTDA;94030087121433;;14/04/2022;GO;compras720@empresa720.com.br
+652;Lanchonete Silva Souza LTDA;10.951.072/8627-46;Curitiba;29-07-22;PR;compras652@empresa652.com.br
+368;Emp�rio Santos Almeida LTDA;67229690772239;Campinas;23/09/2020;SP;compras368@empresa368.com.br
+813;HOTEL SOUZA OLIVEIRA;76284489803575;S�o Paulo;04/08/2021 00:00;SP;compras290@empresa290.com.br
+780;Hotel Santos Almeida LTDA;45.160.833/0343-43;Goi�nia;29/08/2023 00:00;;compras780@empresa780.com.br
+620; Hotel Santos Costa LTDA ;15.611.237/0324-77;Recife;07/10/2019;PE;compras620@empresa620.com.br
+9;Emp�rio Silva Oliveira LTDA;43.406.482/5014-36;Campinas;2020-02-07;SP;compras9@empresa9.com.br
+98;Restaurante Almeida Oliveira LTDA;32669398533131;Salvador;26/09/2022;BA;
+821;MERCADO SANTOS OLIVEIRA;85889513683114;Curitiba;11/07/2023;PR;compras302@empresa302.com.br
+349;Mercearia Ribeiro Souza LTDA;13.135.186/8958-06;;2019-12-28;;compras349@empresa349.com.br
+510;Padaria Santos Costa LTDA;83301212100390;Recife;2020-04-18;PE;compras510@empresa510.com.br
+808; LANCHONETE PEREIRA COSTA ;90.515.065/9077-94;Recife;18/06/2019 00:00;PE;compras431@empresa431.com.br
+22;Hotel Costa Oliveira Ltda.;80188670815721;Salvador;11/01/2021;BA;compras22@empresa22.com.br
+483;Mercearia Souza Ribeiro LTDA;64280856061383;Salvador;16/05/2020 00:00;BA;compras483@empresa483.com.br
+817;LANCHONETE PEREIRA SILVA;07.746.440/9499-69;Porto Alegre;30-01-24;RS;compras438@empresa438.com.br
+406;MERCEARIA COSTA SOUZA LTDA;01700711258351;Belo Horizonte;28/09/2021 00:00;MG;compras406@empresa406.com.br
+836;MERCADO ALMEIDA COSTA;90.763.112/5268-38;Goi�nia;17/09/2019 00:00;GO;compras74@empresa74.com.br
+718;Hotel Ribeiro Oliveira LTDA;98018679487348;Campinas;11/09/2021 00:00;SP;compras718@empresa718.com.br
+479; Emp�rio Souza Oliveira LTDA ;06463845953635;Curitiba;20/08/2022 00:00;;compras479@empresa479.com.br
+591; Hotel Ribeiro Costa LTDA ;34.879.859/4845-27;Porto Alegre;21/05/2023 00:00;RS;compras591@empresa591.com.br
+492;Lanchonete Ribeiro Oliveira LTDA;89500016392508;Curitiba;02/10/2023;PR;compras492@empresa492.com.br
+47;LANCHONETE SOUZA PEREIRA Ltda.;57889938506535;Belo Horizonte;10/06/2021 00:00;MG;compras47@empresa47.com.br
+365;Restaurante Ribeiro Pereira LTDA;48.355.729/3851-98;Porto Alegre;2019-08-20;RS;compras365@empresa365.com.br
+297;MERCADO SANTOS COSTA LTDA;36.985.894/9715-70;Salvador;27-08-23;BA;compras297@empresa297.com.br
+50;Lanchonete Costa Ribeiro LTDA;40.351.121/0204-56;Goi�nia;2023-04-06;GO;compras50@empresa50.com.br
+488;Mercado Costa Pereira LTDA;76.922.436/6785-63;Porto Alegre;27/11/2021;RS;compras488@empresa488.com.br
+225; Emp�rio Ribeiro Almeida LTDA ;650299214270;Belo Horizonte;14-12-22;MG;compras225@empresa225.com.br
+220;Mercearia Oliveira Pereira Ltda.;153916508311;Porto Alegre;2023-12-11;RS;compras220@empresa220.com.br
+797; Emp�rio Souza Santos Ltda. ;04.652.521/1341-00;Campinas;2024-04-20;SP;compras797@empresa797.com.br
+837; RESTAURANTE ALMEIDA ALMEIDA ;98801207723760;Salvador;07/01/2024;BA;N/A
+648;Mercado Almeida Ribeiro LTDA;90019168294737;S�o Paulo;06-12-21;SP;compras648@empresa648.com.br
+202;Padaria Souza Silva LTDA;52653918685983;Campinas;23-12-23;SP;compras202@empresa202.com.br
+563;Hotel Oliveira Oliveira LTDA;20.920.285/0078-43;S�o Paulo;13-09-21;SP;
+623;Padaria Pereira Souza Ltda.;10208967863727;S�o Paulo;27-11-19;SP;compras623@empresa623.com.br
+841; MERCEARIA SOUZA SILVA ;54.672.832/6868-81;Belo Horizonte;26-07-19;MG;compras258@empresa258.com.br
+64;Mercado Silva Santos Ltda.;42.216.203/6019-19;Curitiba;19/04/2024;PR;compras64@empresa64.com.br
+605;Restaurante Oliveira Oliveira LTDA;76297913143837;Belo Horizonte;11/07/2023;MG;compras605@empresa605.com.br
+246;HOTEL PEREIRA SOUZA LTDA;16.078.583/7549-80;S�o Paulo;18/06/2019;SP;compras246@empresa246.com.br
+443; MERCADO SANTOS ALMEIDA LTDA ;19.313.213/3727-80;Curitiba;2019-09-22;PR;compras443@empresa443.com.br
+739;Padaria Ribeiro Oliveira Ltda.;27126190786601;Porto Alegre;16-01-23;RS;compras739@empresa739.com.br
+575;Emp�rio Pereira Souza LTDA;02747897940794;Goiania;15/01/2019;GO;compras575@empresa575.com.br
+1;Hotel Souza Silva LTDA;97900526474814;Curitiba;2019-06-28;PR;compras1@empresa1.com.br
+540;Emp�rio Ribeiro Oliveira LTDA;13.328.356/6283-82;Porto Alegre;2019-02-12;RS;compras540@empresa540.com.br
+690; Padaria Pereira Pereira LTDA ;92970001392715;S�o Paulo;15-04-23;;compras690@empresa690.com.br
+188;Padaria Pereira Almeida LTDA;34938566618158;S�o Paulo;01/02/2021 00:00;SP;compras188@empresa188.com.br
+407;Mercearia Santos Silva LTDA;50822291674471;Recife;17/05/2021 00:00;PE;-
+149;MERCEARIA PEREIRA OLIVEIRA LTDA;00.950.496/2685-67;Sao Paulo;2023-07-02;SP;-
+27; Restaurante Santos Costa LTDA ;64.856.113/2615-;S�o Paulo;15/03/2021;SP;compras27@empresa27.com.br
+462;Mercado Almeida Silva LTDA;16233785721075;salvador;08/10/2019;BA;compras462@empresa462.com.br
+671;Mercearia Silva Costa LTDA;63510380010349;Belo Horizonte;20-03-24;MG;compras671@empresa671.com.br
+656;Mercado Santos Costa LTDA;94299051968643;Porto Alegre;2021-12-01;RS;
+60;Lanchonete Ribeiro Souza LTDA;11121374986501;Salvador;2022-09-28;BA;compras60@empresa60.com.br
+715;Padaria Pereira Silva LTDA;37.071.860/1405-07;Campinas;15/01/2024;SP;compras715@empresa715.com.br
+327; Mercearia Pereira Costa LTDA ;10.627.690/3799-89;Belo Horizonte;17/04/2020 00:00;MG;compras327@empresa327.com.br
+425;Mercado Souza Souza LTDA;11765107138619;Porto Alegre;14-04-21;RS;compras425@empresa425.com.br
+721;Padaria Ribeiro Pereira LTDA;58.263.556/8760-23;Recife;06/10/2019 00:00;PE;compras721@empresa721.com.br
+478;Padaria Oliveira Oliveira LTDA;72.588.401/9078-91;S�o Paulo;05/02/2019 00:00;SP;compras478@empresa478.com.br
+44;Mercado Pereira Almeida LTDA;92786253841531;Belo Horizonte;10/12/2020;MG;compras44@empresa44.com.br
+662;Emp�rio Oliveira Santos LTDA;06773168928329;Porto Alegre;09-01-23;RS;
+636;Emp�rio Costa Costa LTDA;50220137728850;Campinas;2022-10-03;SP;
+529;Lanchonete Souza Souza LTDA;42.815.180/5896-53;Campinas;05/01/2024;SP;compras529@empresa529.com.br
+737; Hotel Pereira Costa LTDA ;23.527.763/7085-41;Curitiba;01/01/2023 00:00;PR;
+484;MERCEARIA PEREIRA PEREIRA LTDA;51.917.598/9013-99;Recife;13/05/2023 00:00;PE;compras484@empresa484.com.br
+219;Hotel Ribeiro Oliveira LTDA;48.283.374/5747-06;Curitiba;2021-06-13;PR;compras219@empresa219.com.br
+742;Emp�rio Santos Souza Ltda.;96142792583651;Curitiba;06/03/2023;PR;compras742@empresa742.com.br
+843;MERCADO OLIVEIRA COSTA;92154463462155;S�o Paulo;2019-12-18;SP;compras761@empresa761.com.br
+779;PADARIA PEREIRA OLIVEIRA LTDA;42288825177827;Campinas;25/06/2020 00:00;SP;compras779@empresa779.com.br
+610;Emp�rio Oliveira Souza LTDA;02.805.553/4215-50;Belo Horizonte;2023-09-12;MG;compras610@empresa610.com.br
+486;Lanchonete Souza Pereira LTDA;34139074620005;goiania;10/04/2020 00:00;GO;compras486@empresa486.com.br
+126;Mercearia Silva Oliveira LTDA;72.119.178/4572-95;Porto Alegre;04/02/2022;;compras126@empresa126.com.br
+764; Emp�rio Silva Silva LTDA ;24232366397859;Campinas;16/02/2024;SP;compras764@empresa764.com.br
+62; Restaurante Silva Santos LTDA ;34.229.021/0477-43;Goi�nia;29/01/2023;GO;compras62@empresa62.com.br
+82;Emp�rio Santos Oliveira LTDA;76428510579156;campinas;2021-05-24;SP;compras82@empresa82.com.br
+681;Mercearia Oliveira Almeida LTDA;60.700.905/9091-60;Porto Alegre;17/12/2022;RS;compras681@empresa681.com.br
+325; Hotel Oliveira Almeida LTDA ;88.357.221/3446-74;Campinas;04/05/2024 00:00;SP;compras325@empresa325.com.br
+386;Mercado Costa Santos LTDA;19.701.446/4811-48;Belo Horizonte;2019-09-03;MG;compras386@empresa386.com.br
+842;EMP�RIO OLIVEIRA SANTOS;06773168928329;Porto Alegre;09/01/2023 00:00;RS;compras662@empresa662.com.br
+57;Restaurante Almeida Santos LTDA;87.223.020/1890-74;S�o Paulo;29-12-21;SP;compras57@empresa57.com.br
+20;Mercado Santos Souza LTDA;27.608.704/3807-09;Porto Alegre;19/06/2021;;
+810; PADARIA OLIVEIRA COSTA ;80620610773493;Recife;2023-09-05;PE;compras643@empresa643.com.br
+87;RESTAURANTE ALMEIDA RIBEIRO LTDA;20.291.946/8071-;Recife;14/07/2019 00:00;PE;compras87@empresa87.com.br
+759;RESTAURANTE ALMEIDA RIBEIRO LTDA;14.868.854/3476-86;Campinas;13/09/2019 00:00;SP;compras759@empresa759.com.br
+650;Mercado Silva Pereira LTDA;69831601341815;Goi�nia;25/08/2023;GO;compras650@empresa650.com.br
+317;Restaurante Santos Santos LTDA;98716073311777;Salvador;31/12/2022 00:00;BA;compras317@empresa317.com.br
+35;Hotel Pereira Almeida LTDA;00900930975217;Curitiba;11/11/2023;PR;compras35@empresa35.com.br
+139;Mercado Almeida Costa LTDA;37775530717257;Campinas;2020-11-25;SP;compras139@empresa139.com.br
+767;PADARIA RIBEIRO COSTA LTDA;95814744593607;S�o Paulo;10/05/2022;;compras767@empresa767.com.br
+589;EMP�RIO COSTA COSTA LTDA;32762008840596;S�o Paulo;02/08/2023 00:00;SP;compras589@empresa589.com.br
+499;Mercearia Costa Silva Ltda.;59082593045792;belo horizonte;2024-01-27;MG;compras499@empresa499.com.br
+539; PADARIA SILVA PEREIRA LTDA ;77424293450172;Porto Alegre;16-12-21;RS;compras539@empresa539.com.br
+556;Hotel Almeida Costa LTDA;60960935645988;Campinas;06/10/2021;SP;
+97;Padaria Costa Santos LTDA;13744125971631;Salvador;24/04/2020 00:00;BA;compras97@empresa97.com.br
+84;PADARIA ALMEIDA SILVA LTDA;25241664110687;Campinas;24-07-23;SP;compras84@empresa84.com.br
+447;Mercado Oliveira Oliveira LTDA;72793352023525;S�o Paulo;19/09/2020 00:00;SP;compras447@empresa447.com.br
+475; Emp�rio Costa Costa LTDA ;94762019701063;;22/06/2022;PE;compras475@empresa475.com.br
+765;Restaurante Ribeiro Almeida LTDA;56.711.931/0711-12;Curitiba;22/12/2020;PR;compras765@empresa765.com.br
+367; Mercearia Souza Oliveira LTDA ;97677960070149;Sao Paulo;28-07-21;SP;compras367@empresa367.com.br
+698;HOTEL SOUZA COSTA LTDA;12332687660437;porto alegre;26-03-22;RS;compras698@empresa698.com.br
+586; Lanchonete Oliveira Silva LTDA ;66387273121569;Belo Horizonte;24-01-24;MG;
+792;Padaria Pereira Santos LTDA;73.786.899/4636-25;curitiba;27-06-21;PR;compras792@empresa792.com.br
+761;Mercado Oliveira Costa LTDA;92.154.463/4621-55;s�o paulo;18/12/2019 00:00;SP;
+402;LANCHONETE COSTA SILVA Ltda.;54307692017194;Belo Horizonte;2023-04-04;MG;compras402@empresa402.com.br
+760; Emp�rio Almeida Almeida LTDA ;37.174.706/7061-54;Campinas;30/12/2022 00:00;SP;
+393;Mercado Costa Santos LTDA;84.583.167/7805-63;Recife;04/01/2021;PE;
+793;Restaurante Souza Ribeiro LTDA;80036197298388;S�o Paulo;16/12/2022 00:00;;compras793@empresa793.com.br
+746; Padaria Costa Ribeiro LTDA ;44999479973683;Curitiba;2020-12-29;PR;
+272;Mercado Santos Pereira LTDA;79035832828103;S�o Paulo;15/02/2019;SP;compras272@empresa272.com.br
+507;Emp�rio Oliveira Souza LTDA;71129363889158;Campinas;28/11/2021 00:00;SP;compras507@empresa507.com.br
+846;HOTEL RIBEIRO COSTA;34.879.859/4845-27;Porto Alegre;2023-05-21;RS;compras591@empresa591.com.br
+435;Emp�rio Costa Souza LTDA;34407231712413;S�o Paulo;17/05/2021 00:00;SP;compras435@empresa435.com.br
+649;PADARIA SANTOS COSTA LTDA;14.652.562/4664-76;Sao Paulo;04/04/2024;SP;compras649@empresa649.com.br
+562;Emp�rio Ribeiro Ribeiro LTDA;62767854029890;S�o Paulo;2019-03-28;SP;compras562@empresa562.com.br
+208;Padaria Souza Oliveira Ltda.;41575732461361;Curitiba;2024-04-22;PR;compras208@empresa208.com.br
+320;Restaurante Ribeiro Almeida Ltda.;45.332.140/2595-90;S�o Paulo;18/03/2023 00:00;SP;compras320@empresa320.com.br
+830;MERCADO OLIVEIRA SILVA;54.837.024/2633-26;Salvador;2019-10-07;BA;compras118@empresa118.com.br
+133;Padaria Silva Santos LTDA;78.747.800/7546-98;Goi�nia;01-07-19;GO;compras133@empresa133.com.br
+51;MERCADO SOUZA COSTA LTDA;70678055449870;Salvador;28/02/2023;BA;compras51@empresa51.com.br
+239;Lanchonete Costa Almeida LTDA;27.734.003/9248-13;Curitiba;2020-09-09;PR;N/A
+565;Restaurante Santos Silva LTDA;86834013166254;Salvador;14/11/2023 00:00;BA;
+593;Lanchonete Oliveira Costa LTDA;75.107.237/8299-03;Porto Alegre;24/04/2020 00:00;RS;compras593@empresa593.com.br
+451;Restaurante Santos Souza Ltda.;47.145.982/0923-48;Salvador;04/04/2024 00:00;BA;compras451@empresa451.com.br
+32;Hotel Ribeiro Almeida Ltda.;73736250789980;Goi�nia;30-03-20;GO;compras32@empresa32.com.br
+122;Restaurante Santos Santos LTDA;14385004112366;Salvador;29-08-22;BA;compras122@empresa122.com.br
+212;Lanchonete Santos Souza LTDA;73.337.455/0675-84;s�o paulo;04/12/2022;SP;compras212@empresa212.com.br
+352;MERCADO ALMEIDA PEREIRA LTDA;93520214959933;Belo Horizonte;2019-03-31;MG;compras352@empresa352.com.br
+455;Lanchonete Silva Silva LTDA;88315594240418;Salvador;2022-04-08;;compras455@empresa455.com.br
+303;Restaurante Silva Almeida LTDA;60.261.108/8920-39;Porto Alegre;20/01/2019 00:00;RS;compras303@empresa303.com.br
+709;Hotel Santos Pereira LTDA;54539831728103;Belo Horizonte;09-08-21;MG;compras709@empresa709.com.br
+89;Padaria Silva Silva LTDA;79367398381282;Porto Alegre;16/03/2023;RS;compras89@empresa89.com.br
+326;Emp�rio Oliveira Souza LTDA;52799812052949;Goi�nia;2020-04-05;GO;teste@teste.com
+324;Mercado Ribeiro Silva LTDA;89.002.792/3314-76;S�o Paulo;07/01/2024;;compras324@empresa324.com.br
+256;RESTAURANTE RIBEIRO SOUZA Ltda.;52536826134910;Campinas;17-10-19;SP;compras256@empresa256.com.br
+571;RESTAURANTE SOUZA COSTA LTDA;59000555169358;Recife;2024-03-12;PE;
+546;Restaurante Souza Silva LTDA;56.379.278/3776-72;Belo Horizonte;17/04/2019 00:00;MG;compras546@empresa546.com.br
+551;Mercearia Silva Costa Ltda.;27.827.370/0160-69;Curitiba;26-05-23;PR;compras551@empresa551.com.br
+360;LANCHONETE COSTA OLIVEIRA LTDA;10.967.099/3759-35;Campinas;2023-02-06;SP;compras360@empresa360.com.br
+52;Emp�rio Pereira Santos LTDA;98216509641283;Curitiba;25-01-20;;compras52@empresa52.com.br
+773;LANCHONETE SILVA SANTOS LTDA;37799667160931;Campinas;2019-01-10;SP;compras773@empresa773.com.br
+103; Padaria Costa Souza LTDA ;45.933.702/6564-89;Curitiba;29-05-23;PR;compras103@empresa103.com.br
+196; Mercado Pereira Almeida LTDA ;14.909.680/2769-04;S�o Paulo;25/06/2019;SP;compras196@empresa196.com.br
+680;Mercado Ribeiro Costa LTDA;99.151.393/3668-61;Campinas;2024-02-15;SP;compras680@empresa680.com.br
+806;RESTAURANTE RIBEIRO ALMEIDA;56711931071112;Curitiba;2020-12-22;PR;compras765@empresa765.com.br
+629;Mercearia Pereira Pereira LTDA;61486531449942;Goi�nia;07-10-21;GO;compras629@empresa629.com.br
+125;Padaria Oliveira Oliveira LTDA;78.389.375/8882-09;Belo Horizonte;07-09-23;MG;compras125@empresa125.com.br
+405;Hotel Souza Ribeiro LTDA;09992644839454;Porto Alegre;2021-09-25;RS;compras405@empresa405.com.br
+731;Emp�rio Pereira Costa LTDA;04886445735173;Recife;28-12-22;PE;compras731@empresa731.com.br
+288;Mercado Ribeiro Costa LTDA;37701713438116;Campinas;2022-02-17;SP;
+832;EMP�RIO OLIVEIRA SILVA;85.416.238/3311-20;Recife;31/03/2019 00:00;PE;compras397@empresa397.com.br
+48;Emp�rio Santos Oliveira LTDA;02.353.692/9777-58;S�o Paulo;22/11/2023;SP;teste@teste.com
+726;LANCHONETE COSTA SOUZA LTDA;96.694.898/7517-20;Belo Horizonte;23-08-19;MG;
+588;Padaria Souza Santos LTDA;82191787738296;Belo Horizonte;18/07/2019 00:00;MG;compras588@empresa588.com.br
+608;Padaria Ribeiro Silva LTDA;07.903.127/4771-20;Porto Alegre;2021-10-25;RS;compras608@empresa608.com.br
+434;Emp�rio Souza Costa LTDA;33585984840311;Curitiba;20/09/2019 00:00;;compras434@empresa434.com.br
+675;HOTEL SANTOS SILVA LTDA;14.740.120/1503-04;Recife;2022-05-28;;compras675@empresa675.com.br
+264;Restaurante Silva Souza LTDA;24382528907983;Belo Horizonte;25/01/2024 00:00;MG;compras264@empresa264.com.br
+361; Mercado Pereira Costa LTDA ;83.550.568/7503-42;Curitiba;19/08/2023;PR;compras361@empresa361.com.br
+76;Padaria Santos Ribeiro LTDA;32.332.696/5627-05;Curitiba;09/08/2021 00:00;PR;compras76@empresa76.com.br
+467;Mercado Costa Oliveira LTDA;25186332832490;Campinas;2019-11-28;SP;compras467@empresa467.com.br
+300;Restaurante Oliveira Pereira LTDA;29.537.507/7701-61;Recife;2019-02-13;PE;compras300@empresa300.com.br
+535;Mercearia Costa Santos LTDA;06.891.332/8352-96;Sao Paulo;28/02/2022;SP;compras535@empresa535.com.br
+585;Hotel Almeida Costa LTDA;39.538.517/7561-59;Curitiba;19-03-21;PR;compras585@empresa585.com.br
+494;EMP�RIO COSTA SOUZA LTDA;01352387270326;Goi�nia;21/04/2022 00:00;GO;compras494@empresa494.com.br
+528;Hotel Ribeiro Costa LTDA;12722208155576;Curitiba;15/10/2019;PR;compras528@empresa528.com.br
+169;Mercearia Oliveira Ribeiro Ltda.;03.786.228/8456-66;Porto Alegre;30/10/2020;RS;compras169@empresa169.com.br
