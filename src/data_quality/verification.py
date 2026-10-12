@@ -22,12 +22,16 @@ def verification():
     if df_vendas.empty:
         raise Exception("Dataframe vendas_erp.csv is empty.")
 
+    df_web = pd.read_json(data_dir / "vendas_ecommerce.json")
+    if df_web.empty:
+        raise Exception("Dataframe web is empty.")
+
     print("Starting clientes verification")
     duplicates = duplicates_count(df_produtos)
     print("Number of duplicates: ", duplicates)
     nulls = df_clientes.isnull().sum()
     print(nulls)
-    
+
     print("Starting produtos verification")
     duplicates = duplicates_count(df_produtos)
     print("Number of duplicates: ", duplicates)
@@ -38,6 +42,12 @@ def verification():
     duplicates = duplicates_count(df_vendas)
     print("Number of duplicates: ", duplicates)
     nulls = df_vendas.isnull().sum()
+    print(nulls)
+    
+    print("Starting web verification")
+    duplicates = duplicates_count(df_web)
+    print("Number of duplicates: ", duplicates)
+    nulls = df_web.isnull().sum()
     print(nulls)
 
 verification()
